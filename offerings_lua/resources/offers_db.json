@@ -1,0 +1,4336 @@
+{
+  "68494c9da475c57c6aac73c3": {
+    "type": "BOTH",
+    "global_cap": 61583,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac73c4": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 6072
+  },
+  "68494c9da475c57c6aac73c5": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac73c6": {
+    "type": "BOTH",
+    "global_cap": 44675,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac73c7": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 10775
+  },
+  "68494c9da475c57c6aac73c8": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac73c9": {
+    "type": "BOTH",
+    "global_cap": 54098,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac73ca": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 52642
+  },
+  "68494c9da475c57c6aac73cb": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac73cc": {
+    "type": "BOTH",
+    "global_cap": 9663,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac73cd": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 94417
+  },
+  "68494c9da475c57c6aac73ce": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac73cf": {
+    "type": "BOTH",
+    "global_cap": 90964,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac73d0": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 99263
+  },
+  "68494c9da475c57c6aac73d1": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac73d2": {
+    "type": "BOTH",
+    "global_cap": 28547,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac73d3": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 28570
+  },
+  "68494c9da475c57c6aac73d4": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac73d5": {
+    "type": "BOTH",
+    "global_cap": 41701,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac73d6": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 98276
+  },
+  "68494c9da475c57c6aac73d7": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac73d8": {
+    "type": "BOTH",
+    "global_cap": 73931,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac73d9": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 10829
+  },
+  "68494c9da475c57c6aac73da": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac73db": {
+    "type": "BOTH",
+    "global_cap": 92392,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac73dc": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 89456
+  },
+  "68494c9da475c57c6aac73dd": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac73de": {
+    "type": "BOTH",
+    "global_cap": 30758,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac73df": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 51302
+  },
+  "68494c9da475c57c6aac73e0": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac73e1": {
+    "type": "BOTH",
+    "global_cap": 22067,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac73e2": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 51417
+  },
+  "68494c9da475c57c6aac73e3": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac73e4": {
+    "type": "BOTH",
+    "global_cap": 56848,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac73e5": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 71756
+  },
+  "68494c9da475c57c6aac73e6": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac73e7": {
+    "type": "BOTH",
+    "global_cap": 59666,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac73e8": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 99550
+  },
+  "68494c9da475c57c6aac73e9": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac73ea": {
+    "type": "BOTH",
+    "global_cap": 73444,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac73eb": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 97601
+  },
+  "68494c9da475c57c6aac73ec": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac73ed": {
+    "type": "BOTH",
+    "global_cap": 51349,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac73ee": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 96733
+  },
+  "68494c9da475c57c6aac73ef": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac73f0": {
+    "type": "BOTH",
+    "global_cap": 67703,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac73f1": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 69083
+  },
+  "68494c9da475c57c6aac73f2": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac73f3": {
+    "type": "BOTH",
+    "global_cap": 21102,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac73f4": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 65780
+  },
+  "68494c9da475c57c6aac73f5": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac73f6": {
+    "type": "BOTH",
+    "global_cap": 18180,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac73f7": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 8976
+  },
+  "68494c9da475c57c6aac73f8": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac73f9": {
+    "type": "BOTH",
+    "global_cap": 3361,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac73fa": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 71788
+  },
+  "68494c9da475c57c6aac73fb": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac73fc": {
+    "type": "BOTH",
+    "global_cap": 5638,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac73fd": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 21518
+  },
+  "68494c9da475c57c6aac73fe": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac73ff": {
+    "type": "BOTH",
+    "global_cap": 14393,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7400": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 22425
+  },
+  "68494c9da475c57c6aac7401": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7402": {
+    "type": "BOTH",
+    "global_cap": 54968,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7403": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 77960
+  },
+  "68494c9da475c57c6aac7404": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7405": {
+    "type": "BOTH",
+    "global_cap": 91928,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7406": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 21788
+  },
+  "68494c9da475c57c6aac7407": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7408": {
+    "type": "BOTH",
+    "global_cap": 62851,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7409": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 39530
+  },
+  "68494c9da475c57c6aac740a": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac740b": {
+    "type": "BOTH",
+    "global_cap": 18214,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac740c": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 2763
+  },
+  "68494c9da475c57c6aac740d": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac740e": {
+    "type": "BOTH",
+    "global_cap": 75057,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac740f": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 88837
+  },
+  "68494c9da475c57c6aac7410": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7411": {
+    "type": "BOTH",
+    "global_cap": 43409,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7412": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 21843
+  },
+  "68494c9da475c57c6aac7413": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7414": {
+    "type": "BOTH",
+    "global_cap": 27315,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7415": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 96561
+  },
+  "68494c9da475c57c6aac7416": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7417": {
+    "type": "BOTH",
+    "global_cap": 97487,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7418": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 97365
+  },
+  "68494c9da475c57c6aac7419": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac741a": {
+    "type": "BOTH",
+    "global_cap": 57321,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac741b": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 22380
+  },
+  "68494c9da475c57c6aac741c": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac741d": {
+    "type": "BOTH",
+    "global_cap": 70010,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac741e": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 14926
+  },
+  "68494c9da475c57c6aac741f": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7420": {
+    "type": "BOTH",
+    "global_cap": 14560,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7421": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 66569
+  },
+  "68494c9da475c57c6aac7422": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7423": {
+    "type": "BOTH",
+    "global_cap": 36672,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7424": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 88377
+  },
+  "68494c9da475c57c6aac7425": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7426": {
+    "type": "BOTH",
+    "global_cap": 14627,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7427": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 5636
+  },
+  "68494c9da475c57c6aac7428": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7429": {
+    "type": "BOTH",
+    "global_cap": 6543,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac742a": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 97107
+  },
+  "68494c9da475c57c6aac742b": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac742c": {
+    "type": "BOTH",
+    "global_cap": 28501,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac742d": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 44109
+  },
+  "68494c9da475c57c6aac742e": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac742f": {
+    "type": "BOTH",
+    "global_cap": 94552,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7430": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 81541
+  },
+  "68494c9da475c57c6aac7431": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7432": {
+    "type": "BOTH",
+    "global_cap": 34010,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7433": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 51607
+  },
+  "68494c9da475c57c6aac7434": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7435": {
+    "type": "BOTH",
+    "global_cap": 53501,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7436": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 42291
+  },
+  "68494c9da475c57c6aac7437": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7438": {
+    "type": "BOTH",
+    "global_cap": 19688,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7439": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 97308
+  },
+  "68494c9da475c57c6aac743a": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac743b": {
+    "type": "BOTH",
+    "global_cap": 76769,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac743c": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 57266
+  },
+  "68494c9da475c57c6aac743d": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac743e": {
+    "type": "BOTH",
+    "global_cap": 31666,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac743f": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 1302
+  },
+  "68494c9da475c57c6aac7440": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7441": {
+    "type": "BOTH",
+    "global_cap": 43799,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7442": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 85453
+  },
+  "68494c9da475c57c6aac7443": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac7444": {
+    "type": "BOTH",
+    "global_cap": 69492,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac7445": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 52667
+  },
+  "68494c9da475c57c6aac7446": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7447": {
+    "type": "BOTH",
+    "global_cap": 95329,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7448": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 90970
+  },
+  "68494c9da475c57c6aac7449": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac744a": {
+    "type": "BOTH",
+    "global_cap": 20660,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac744b": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 38071
+  },
+  "68494c9da475c57c6aac744c": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac744d": {
+    "type": "BOTH",
+    "global_cap": 87863,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac744e": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 96214
+  },
+  "68494c9da475c57c6aac744f": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac7450": {
+    "type": "BOTH",
+    "global_cap": 27452,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7451": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 97925
+  },
+  "68494c9da475c57c6aac7452": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7453": {
+    "type": "BOTH",
+    "global_cap": 65276,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7454": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 27844
+  },
+  "68494c9da475c57c6aac7455": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7456": {
+    "type": "BOTH",
+    "global_cap": 33212,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac7457": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 67726
+  },
+  "68494c9da475c57c6aac7458": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7459": {
+    "type": "BOTH",
+    "global_cap": 43700,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac745a": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 42420
+  },
+  "68494c9da475c57c6aac745b": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac745c": {
+    "type": "BOTH",
+    "global_cap": 27580,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac745d": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 37842
+  },
+  "68494c9da475c57c6aac745e": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac745f": {
+    "type": "BOTH",
+    "global_cap": 99558,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7460": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 82946
+  },
+  "68494c9da475c57c6aac7461": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7462": {
+    "type": "BOTH",
+    "global_cap": 79938,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac7463": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 42863
+  },
+  "68494c9da475c57c6aac7464": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7465": {
+    "type": "BOTH",
+    "global_cap": 95437,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7466": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 14214
+  },
+  "68494c9da475c57c6aac7467": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7468": {
+    "type": "BOTH",
+    "global_cap": 62271,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7469": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 88040
+  },
+  "68494c9da475c57c6aac746a": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac746b": {
+    "type": "BOTH",
+    "global_cap": 48784,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac746c": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 46117
+  },
+  "68494c9da475c57c6aac746d": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac746e": {
+    "type": "BOTH",
+    "global_cap": 38501,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac746f": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 63420
+  },
+  "68494c9da475c57c6aac7470": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7471": {
+    "type": "BOTH",
+    "global_cap": 44128,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7472": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 82833
+  },
+  "68494c9da475c57c6aac7473": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7474": {
+    "type": "BOTH",
+    "global_cap": 72052,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7475": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 58978
+  },
+  "68494c9da475c57c6aac7476": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7477": {
+    "type": "BOTH",
+    "global_cap": 4175,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7478": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 81923
+  },
+  "68494c9da475c57c6aac7479": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac747a": {
+    "type": "BOTH",
+    "global_cap": 90665,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac747b": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 52422
+  },
+  "68494c9da475c57c6aac747c": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac747d": {
+    "type": "BOTH",
+    "global_cap": 99597,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac747e": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 45125
+  },
+  "68494c9da475c57c6aac747f": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7480": {
+    "type": "BOTH",
+    "global_cap": 62203,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7481": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 88803
+  },
+  "68494c9da475c57c6aac7482": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7483": {
+    "type": "BOTH",
+    "global_cap": 40465,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7484": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 77144
+  },
+  "68494c9da475c57c6aac7485": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7486": {
+    "type": "BOTH",
+    "global_cap": 75794,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7487": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 29567
+  },
+  "68494c9da475c57c6aac7488": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac7489": {
+    "type": "BOTH",
+    "global_cap": 72940,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac748a": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 79822
+  },
+  "68494c9da475c57c6aac748b": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac748c": {
+    "type": "BOTH",
+    "global_cap": 54797,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac748d": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 2712
+  },
+  "68494c9da475c57c6aac748e": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac748f": {
+    "type": "BOTH",
+    "global_cap": 59988,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7490": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 23249
+  },
+  "68494c9da475c57c6aac7491": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7492": {
+    "type": "BOTH",
+    "global_cap": 65380,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7493": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 79128
+  },
+  "68494c9da475c57c6aac7494": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7495": {
+    "type": "BOTH",
+    "global_cap": 57259,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7496": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 4230
+  },
+  "68494c9da475c57c6aac7497": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7498": {
+    "type": "BOTH",
+    "global_cap": 74665,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7499": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 80716
+  },
+  "68494c9da475c57c6aac749a": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac749b": {
+    "type": "BOTH",
+    "global_cap": 71986,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac749c": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 2914
+  },
+  "68494c9da475c57c6aac749d": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac749e": {
+    "type": "BOTH",
+    "global_cap": 47779,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac749f": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 3145
+  },
+  "68494c9da475c57c6aac74a0": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac74a1": {
+    "type": "BOTH",
+    "global_cap": 93136,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac74a2": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 58242
+  },
+  "68494c9da475c57c6aac74a3": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac74a4": {
+    "type": "BOTH",
+    "global_cap": 45539,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac74a5": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 47541
+  },
+  "68494c9da475c57c6aac74a6": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac74a7": {
+    "type": "BOTH",
+    "global_cap": 92527,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac74a8": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 94594
+  },
+  "68494c9da475c57c6aac74a9": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac74aa": {
+    "type": "BOTH",
+    "global_cap": 58070,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac74ab": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 99851
+  },
+  "68494c9da475c57c6aac74ac": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac74ad": {
+    "type": "BOTH",
+    "global_cap": 84391,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac74ae": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 14782
+  },
+  "68494c9da475c57c6aac74af": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac74b0": {
+    "type": "BOTH",
+    "global_cap": 20043,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac74b1": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 46901
+  },
+  "68494c9da475c57c6aac74b2": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac74b3": {
+    "type": "BOTH",
+    "global_cap": 62731,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac74b4": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 54214
+  },
+  "68494c9da475c57c6aac74b5": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac74b6": {
+    "type": "BOTH",
+    "global_cap": 45028,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac74b7": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 88278
+  },
+  "68494c9da475c57c6aac74b8": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac74b9": {
+    "type": "BOTH",
+    "global_cap": 56877,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac74ba": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 49020
+  },
+  "68494c9da475c57c6aac74bb": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac74bc": {
+    "type": "BOTH",
+    "global_cap": 43863,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac74bd": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 78741
+  },
+  "68494c9da475c57c6aac74be": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac74bf": {
+    "type": "BOTH",
+    "global_cap": 16519,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac74c0": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 45063
+  },
+  "68494c9da475c57c6aac74c1": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac74c2": {
+    "type": "BOTH",
+    "global_cap": 15223,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac74c3": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 71082
+  },
+  "68494c9da475c57c6aac74c4": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac74c5": {
+    "type": "BOTH",
+    "global_cap": 79622,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac74c6": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 38967
+  },
+  "68494c9da475c57c6aac74c7": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac74c8": {
+    "type": "BOTH",
+    "global_cap": 67165,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac74c9": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 14978
+  },
+  "68494c9da475c57c6aac74ca": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac74cb": {
+    "type": "BOTH",
+    "global_cap": 1852,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac74cc": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 49093
+  },
+  "68494c9da475c57c6aac74cd": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac74ce": {
+    "type": "BOTH",
+    "global_cap": 70500,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac74cf": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 84492
+  },
+  "68494c9da475c57c6aac74d0": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac74d1": {
+    "type": "BOTH",
+    "global_cap": 34013,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac74d2": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 31006
+  },
+  "68494c9da475c57c6aac74d3": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac74d4": {
+    "type": "BOTH",
+    "global_cap": 49367,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac74d5": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 28262
+  },
+  "68494c9da475c57c6aac74d6": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac74d7": {
+    "type": "BOTH",
+    "global_cap": 29726,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac74d8": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 77448
+  },
+  "68494c9da475c57c6aac74d9": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac74da": {
+    "type": "BOTH",
+    "global_cap": 23786,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac74db": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 73040
+  },
+  "68494c9da475c57c6aac74dc": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac74dd": {
+    "type": "BOTH",
+    "global_cap": 76719,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac74de": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 79368
+  },
+  "68494c9da475c57c6aac74df": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac74e0": {
+    "type": "BOTH",
+    "global_cap": 42145,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac74e1": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 53016
+  },
+  "68494c9da475c57c6aac74e2": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac74e3": {
+    "type": "BOTH",
+    "global_cap": 48507,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac74e4": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 31011
+  },
+  "68494c9da475c57c6aac74e5": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac74e6": {
+    "type": "BOTH",
+    "global_cap": 13358,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac74e7": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 558
+  },
+  "68494c9da475c57c6aac74e8": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac74e9": {
+    "type": "BOTH",
+    "global_cap": 29839,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac74ea": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 56066
+  },
+  "68494c9da475c57c6aac74eb": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac74ec": {
+    "type": "BOTH",
+    "global_cap": 98087,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac74ed": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 12644
+  },
+  "68494c9da475c57c6aac74ee": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac74ef": {
+    "type": "BOTH",
+    "global_cap": 57438,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac74f0": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 62966
+  },
+  "68494c9da475c57c6aac74f1": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac74f2": {
+    "type": "BOTH",
+    "global_cap": 6447,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac74f3": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 56561
+  },
+  "68494c9da475c57c6aac74f4": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac74f5": {
+    "type": "BOTH",
+    "global_cap": 29683,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac74f6": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 73781
+  },
+  "68494c9da475c57c6aac74f7": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac74f8": {
+    "type": "BOTH",
+    "global_cap": 8621,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac74f9": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 41181
+  },
+  "68494c9da475c57c6aac74fa": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac74fb": {
+    "type": "BOTH",
+    "global_cap": 58338,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac74fc": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 99038
+  },
+  "68494c9da475c57c6aac74fd": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac74fe": {
+    "type": "BOTH",
+    "global_cap": 19835,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac74ff": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 4075
+  },
+  "68494c9da475c57c6aac7500": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7501": {
+    "type": "BOTH",
+    "global_cap": 13344,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7502": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 81874
+  },
+  "68494c9da475c57c6aac7503": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7504": {
+    "type": "BOTH",
+    "global_cap": 34777,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac7505": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 24388
+  },
+  "68494c9da475c57c6aac7506": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7507": {
+    "type": "BOTH",
+    "global_cap": 13366,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7508": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 63557
+  },
+  "68494c9da475c57c6aac7509": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac750a": {
+    "type": "BOTH",
+    "global_cap": 90441,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac750b": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 1235
+  },
+  "68494c9da475c57c6aac750c": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac750d": {
+    "type": "BOTH",
+    "global_cap": 3681,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac750e": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 87565
+  },
+  "68494c9da475c57c6aac750f": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7510": {
+    "type": "BOTH",
+    "global_cap": 66633,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7511": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 17152
+  },
+  "68494c9da475c57c6aac7512": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac7513": {
+    "type": "BOTH",
+    "global_cap": 23913,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7514": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 29703
+  },
+  "68494c9da475c57c6aac7515": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7516": {
+    "type": "BOTH",
+    "global_cap": 49562,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7517": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 89012
+  },
+  "68494c9da475c57c6aac7518": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7519": {
+    "type": "BOTH",
+    "global_cap": 87821,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac751a": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 44936
+  },
+  "68494c9da475c57c6aac751b": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac751c": {
+    "type": "BOTH",
+    "global_cap": 99263,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac751d": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 92663
+  },
+  "68494c9da475c57c6aac751e": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac751f": {
+    "type": "BOTH",
+    "global_cap": 94433,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7520": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 60622
+  },
+  "68494c9da475c57c6aac7521": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7522": {
+    "type": "BOTH",
+    "global_cap": 46051,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7523": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 4083
+  },
+  "68494c9da475c57c6aac7524": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7525": {
+    "type": "BOTH",
+    "global_cap": 13078,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7526": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 26341
+  },
+  "68494c9da475c57c6aac7527": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7528": {
+    "type": "BOTH",
+    "global_cap": 11342,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7529": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 31005
+  },
+  "68494c9da475c57c6aac752a": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac752b": {
+    "type": "BOTH",
+    "global_cap": 3677,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac752c": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 58937
+  },
+  "68494c9da475c57c6aac752d": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac752e": {
+    "type": "BOTH",
+    "global_cap": 85802,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac752f": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 53737
+  },
+  "68494c9da475c57c6aac7530": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac7531": {
+    "type": "BOTH",
+    "global_cap": 99602,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7532": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 16681
+  },
+  "68494c9da475c57c6aac7533": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7534": {
+    "type": "BOTH",
+    "global_cap": 99305,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7535": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 59830
+  },
+  "68494c9da475c57c6aac7536": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac7537": {
+    "type": "BOTH",
+    "global_cap": 8895,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7538": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 17546
+  },
+  "68494c9da475c57c6aac7539": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac753a": {
+    "type": "BOTH",
+    "global_cap": 79240,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac753b": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 18273
+  },
+  "68494c9da475c57c6aac753c": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac753d": {
+    "type": "BOTH",
+    "global_cap": 51175,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac753e": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 31715
+  },
+  "68494c9da475c57c6aac753f": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7540": {
+    "type": "BOTH",
+    "global_cap": 89502,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7541": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 66958
+  },
+  "68494c9da475c57c6aac7542": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7543": {
+    "type": "BOTH",
+    "global_cap": 25970,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac7544": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 69865
+  },
+  "68494c9da475c57c6aac7545": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7546": {
+    "type": "BOTH",
+    "global_cap": 5124,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7547": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 23838
+  },
+  "68494c9da475c57c6aac7548": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac7549": {
+    "type": "BOTH",
+    "global_cap": 36760,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac754a": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 83918
+  },
+  "68494c9da475c57c6aac754b": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac754c": {
+    "type": "BOTH",
+    "global_cap": 43504,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac754d": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 85007
+  },
+  "68494c9da475c57c6aac754e": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac754f": {
+    "type": "BOTH",
+    "global_cap": 82088,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7550": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 88912
+  },
+  "68494c9da475c57c6aac7551": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac7552": {
+    "type": "BOTH",
+    "global_cap": 51443,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7553": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 39742
+  },
+  "68494c9da475c57c6aac7554": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7555": {
+    "type": "BOTH",
+    "global_cap": 93170,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7556": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 99268
+  },
+  "68494c9da475c57c6aac7557": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7558": {
+    "type": "BOTH",
+    "global_cap": 13932,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7559": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 92811
+  },
+  "68494c9da475c57c6aac755a": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac755b": {
+    "type": "BOTH",
+    "global_cap": 36150,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac755c": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 68360
+  },
+  "68494c9da475c57c6aac755d": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac755e": {
+    "type": "BOTH",
+    "global_cap": 1287,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac755f": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 29644
+  },
+  "68494c9da475c57c6aac7560": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7561": {
+    "type": "BOTH",
+    "global_cap": 33277,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7562": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 77472
+  },
+  "68494c9da475c57c6aac7563": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7564": {
+    "type": "BOTH",
+    "global_cap": 39646,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7565": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 75128
+  },
+  "68494c9da475c57c6aac7566": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7567": {
+    "type": "BOTH",
+    "global_cap": 90092,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7568": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 52795
+  },
+  "68494c9da475c57c6aac7569": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac756a": {
+    "type": "BOTH",
+    "global_cap": 67399,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac756b": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 47712
+  },
+  "68494c9da475c57c6aac756c": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac756d": {
+    "type": "BOTH",
+    "global_cap": 31961,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac756e": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 64004
+  },
+  "68494c9da475c57c6aac756f": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7570": {
+    "type": "BOTH",
+    "global_cap": 88476,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7571": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 44125
+  },
+  "68494c9da475c57c6aac7572": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac7573": {
+    "type": "BOTH",
+    "global_cap": 65564,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7574": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 36671
+  },
+  "68494c9da475c57c6aac7575": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7576": {
+    "type": "BOTH",
+    "global_cap": 51934,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7577": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 37095
+  },
+  "68494c9da475c57c6aac7578": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7579": {
+    "type": "BOTH",
+    "global_cap": 18561,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac757a": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 48293
+  },
+  "68494c9da475c57c6aac757b": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac757c": {
+    "type": "BOTH",
+    "global_cap": 28223,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac757d": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 40477
+  },
+  "68494c9da475c57c6aac757e": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac757f": {
+    "type": "BOTH",
+    "global_cap": 1409,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7580": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 88838
+  },
+  "68494c9da475c57c6aac7581": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7582": {
+    "type": "BOTH",
+    "global_cap": 46877,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7583": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 84707
+  },
+  "68494c9da475c57c6aac7584": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7585": {
+    "type": "BOTH",
+    "global_cap": 87804,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7586": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 74072
+  },
+  "68494c9da475c57c6aac7587": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7588": {
+    "type": "BOTH",
+    "global_cap": 36530,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7589": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 7951
+  },
+  "68494c9da475c57c6aac758a": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac758b": {
+    "type": "BOTH",
+    "global_cap": 20161,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac758c": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 72055
+  },
+  "68494c9da475c57c6aac758d": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac758e": {
+    "type": "BOTH",
+    "global_cap": 80664,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac758f": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 6446
+  },
+  "68494c9da475c57c6aac7590": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7591": {
+    "type": "BOTH",
+    "global_cap": 32539,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7592": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 46241
+  },
+  "68494c9da475c57c6aac7593": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7594": {
+    "type": "BOTH",
+    "global_cap": 80920,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7595": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 72049
+  },
+  "68494c9da475c57c6aac7596": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7597": {
+    "type": "BOTH",
+    "global_cap": 67946,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7598": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 30949
+  },
+  "68494c9da475c57c6aac7599": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac759a": {
+    "type": "BOTH",
+    "global_cap": 43960,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac759b": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 22620
+  },
+  "68494c9da475c57c6aac759c": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac759d": {
+    "type": "BOTH",
+    "global_cap": 65821,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac759e": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 94060
+  },
+  "68494c9da475c57c6aac759f": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac75a0": {
+    "type": "BOTH",
+    "global_cap": 93197,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac75a1": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 83056
+  },
+  "68494c9da475c57c6aac75a2": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac75a3": {
+    "type": "BOTH",
+    "global_cap": 62190,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac75a4": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 6989
+  },
+  "68494c9da475c57c6aac75a5": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac75a6": {
+    "type": "BOTH",
+    "global_cap": 27974,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac75a7": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 47901
+  },
+  "68494c9da475c57c6aac75a8": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac75a9": {
+    "type": "BOTH",
+    "global_cap": 34242,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac75aa": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 30918
+  },
+  "68494c9da475c57c6aac75ab": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac75ac": {
+    "type": "BOTH",
+    "global_cap": 20757,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac75ad": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 2459
+  },
+  "68494c9da475c57c6aac75ae": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac75af": {
+    "type": "BOTH",
+    "global_cap": 36478,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac75b0": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 96435
+  },
+  "68494c9da475c57c6aac75b1": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac75b2": {
+    "type": "BOTH",
+    "global_cap": 51594,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac75b3": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 31691
+  },
+  "68494c9da475c57c6aac75b4": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac75b5": {
+    "type": "BOTH",
+    "global_cap": 33666,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac75b6": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 14753
+  },
+  "68494c9da475c57c6aac75b7": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac75b8": {
+    "type": "BOTH",
+    "global_cap": 18396,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac75b9": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 41972
+  },
+  "68494c9da475c57c6aac75ba": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac75bb": {
+    "type": "BOTH",
+    "global_cap": 36736,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac75bc": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 59860
+  },
+  "68494c9da475c57c6aac75bd": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac75be": {
+    "type": "BOTH",
+    "global_cap": 82958,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac75bf": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 49476
+  },
+  "68494c9da475c57c6aac75c0": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac75c1": {
+    "type": "BOTH",
+    "global_cap": 94098,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac75c2": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 79435
+  },
+  "68494c9da475c57c6aac75c3": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac75c4": {
+    "type": "BOTH",
+    "global_cap": 13338,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac75c5": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 17858
+  },
+  "68494c9da475c57c6aac75c6": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac75c7": {
+    "type": "BOTH",
+    "global_cap": 92051,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac75c8": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 11342
+  },
+  "68494c9da475c57c6aac75c9": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac75ca": {
+    "type": "BOTH",
+    "global_cap": 56237,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac75cb": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 61164
+  },
+  "68494c9da475c57c6aac75cc": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac75cd": {
+    "type": "BOTH",
+    "global_cap": 59263,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac75ce": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 41639
+  },
+  "68494c9da475c57c6aac75cf": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac75d0": {
+    "type": "BOTH",
+    "global_cap": 45590,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac75d1": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 60234
+  },
+  "68494c9da475c57c6aac75d2": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac75d3": {
+    "type": "BOTH",
+    "global_cap": 55842,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac75d4": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 8255
+  },
+  "68494c9da475c57c6aac75d5": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac75d6": {
+    "type": "BOTH",
+    "global_cap": 36002,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac75d7": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 87901
+  },
+  "68494c9da475c57c6aac75d8": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac75d9": {
+    "type": "BOTH",
+    "global_cap": 62917,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac75da": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 37007
+  },
+  "68494c9da475c57c6aac75db": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac75dc": {
+    "type": "BOTH",
+    "global_cap": 6030,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac75dd": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 31256
+  },
+  "68494c9da475c57c6aac75de": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac75df": {
+    "type": "BOTH",
+    "global_cap": 70737,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac75e0": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 65033
+  },
+  "68494c9da475c57c6aac75e1": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac75e2": {
+    "type": "BOTH",
+    "global_cap": 32767,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac75e3": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 2533
+  },
+  "68494c9da475c57c6aac75e4": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac75e5": {
+    "type": "BOTH",
+    "global_cap": 17390,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac75e6": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 4490
+  },
+  "68494c9da475c57c6aac75e7": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac75e8": {
+    "type": "BOTH",
+    "global_cap": 58013,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac75e9": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 8175
+  },
+  "68494c9da475c57c6aac75ea": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac75eb": {
+    "type": "BOTH",
+    "global_cap": 27672,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac75ec": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 49984
+  },
+  "68494c9da475c57c6aac75ed": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac75ee": {
+    "type": "BOTH",
+    "global_cap": 8129,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac75ef": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 41011
+  },
+  "68494c9da475c57c6aac75f0": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac75f1": {
+    "type": "BOTH",
+    "global_cap": 60648,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac75f2": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 95816
+  },
+  "68494c9da475c57c6aac75f3": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac75f4": {
+    "type": "BOTH",
+    "global_cap": 85970,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac75f5": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 64370
+  },
+  "68494c9da475c57c6aac75f6": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac75f7": {
+    "type": "BOTH",
+    "global_cap": 45637,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac75f8": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 41388
+  },
+  "68494c9da475c57c6aac75f9": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac75fa": {
+    "type": "BOTH",
+    "global_cap": 40650,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac75fb": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 88308
+  },
+  "68494c9da475c57c6aac75fc": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac75fd": {
+    "type": "BOTH",
+    "global_cap": 18148,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac75fe": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 72107
+  },
+  "68494c9da475c57c6aac75ff": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7600": {
+    "type": "BOTH",
+    "global_cap": 79456,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7601": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 16311
+  },
+  "68494c9da475c57c6aac7602": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7603": {
+    "type": "BOTH",
+    "global_cap": 85125,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7604": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 17104
+  },
+  "68494c9da475c57c6aac7605": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7606": {
+    "type": "BOTH",
+    "global_cap": 40185,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7607": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 77094
+  },
+  "68494c9da475c57c6aac7608": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7609": {
+    "type": "BOTH",
+    "global_cap": 5491,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac760a": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 31187
+  },
+  "68494c9da475c57c6aac760b": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac760c": {
+    "type": "BOTH",
+    "global_cap": 1905,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac760d": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 96126
+  },
+  "68494c9da475c57c6aac760e": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac760f": {
+    "type": "BOTH",
+    "global_cap": 65157,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7610": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 38787
+  },
+  "68494c9da475c57c6aac7611": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac7612": {
+    "type": "BOTH",
+    "global_cap": 10192,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7613": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 44122
+  },
+  "68494c9da475c57c6aac7614": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7615": {
+    "type": "BOTH",
+    "global_cap": 35856,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7616": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 82846
+  },
+  "68494c9da475c57c6aac7617": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7618": {
+    "type": "BOTH",
+    "global_cap": 48411,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7619": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 17832
+  },
+  "68494c9da475c57c6aac761a": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac761b": {
+    "type": "BOTH",
+    "global_cap": 18559,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac761c": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 38062
+  },
+  "68494c9da475c57c6aac761d": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac761e": {
+    "type": "BOTH",
+    "global_cap": 94951,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac761f": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 93858
+  },
+  "68494c9da475c57c6aac7620": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac7621": {
+    "type": "BOTH",
+    "global_cap": 55302,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7622": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 64469
+  },
+  "68494c9da475c57c6aac7623": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7624": {
+    "type": "BOTH",
+    "global_cap": 19187,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7625": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 81212
+  },
+  "68494c9da475c57c6aac7626": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac7627": {
+    "type": "BOTH",
+    "global_cap": 27495,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7628": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 1638
+  },
+  "68494c9da475c57c6aac7629": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac762a": {
+    "type": "BOTH",
+    "global_cap": 92817,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac762b": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 25030
+  },
+  "68494c9da475c57c6aac762c": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac762d": {
+    "type": "BOTH",
+    "global_cap": 85692,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac762e": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 24189
+  },
+  "68494c9da475c57c6aac762f": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7630": {
+    "type": "BOTH",
+    "global_cap": 59143,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7631": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 55680
+  },
+  "68494c9da475c57c6aac7632": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7633": {
+    "type": "BOTH",
+    "global_cap": 60463,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac7634": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 31176
+  },
+  "68494c9da475c57c6aac7635": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7636": {
+    "type": "BOTH",
+    "global_cap": 63593,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7637": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 99936
+  },
+  "68494c9da475c57c6aac7638": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7639": {
+    "type": "BOTH",
+    "global_cap": 97095,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac763a": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 50800
+  },
+  "68494c9da475c57c6aac763b": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac763c": {
+    "type": "BOTH",
+    "global_cap": 99030,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac763d": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 30480
+  },
+  "68494c9da475c57c6aac763e": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac763f": {
+    "type": "BOTH",
+    "global_cap": 37053,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac7640": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 13129
+  },
+  "68494c9da475c57c6aac7641": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7642": {
+    "type": "BOTH",
+    "global_cap": 73427,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7643": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 41182
+  },
+  "68494c9da475c57c6aac7644": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7645": {
+    "type": "BOTH",
+    "global_cap": 74704,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac7646": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 61785
+  },
+  "68494c9da475c57c6aac7647": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7648": {
+    "type": "BOTH",
+    "global_cap": 76826,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7649": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 90349
+  },
+  "68494c9da475c57c6aac764a": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac764b": {
+    "type": "BOTH",
+    "global_cap": 72594,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac764c": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 97293
+  },
+  "68494c9da475c57c6aac764d": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac764e": {
+    "type": "BOTH",
+    "global_cap": 60000,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac764f": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 82541
+  },
+  "68494c9da475c57c6aac7650": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7651": {
+    "type": "BOTH",
+    "global_cap": 7616,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7652": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 64742
+  },
+  "68494c9da475c57c6aac7653": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac7654": {
+    "type": "BOTH",
+    "global_cap": 71128,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac7655": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 54021
+  },
+  "68494c9da475c57c6aac7656": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7657": {
+    "type": "BOTH",
+    "global_cap": 55197,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7658": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 55593
+  },
+  "68494c9da475c57c6aac7659": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac765a": {
+    "type": "BOTH",
+    "global_cap": 58128,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac765b": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 6127
+  },
+  "68494c9da475c57c6aac765c": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac765d": {
+    "type": "BOTH",
+    "global_cap": 89420,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac765e": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 89325
+  },
+  "68494c9da475c57c6aac765f": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7660": {
+    "type": "BOTH",
+    "global_cap": 51858,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7661": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 66273
+  },
+  "68494c9da475c57c6aac7662": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7663": {
+    "type": "BOTH",
+    "global_cap": 32380,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7664": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 39742
+  },
+  "68494c9da475c57c6aac7665": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7666": {
+    "type": "BOTH",
+    "global_cap": 52014,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7667": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 18421
+  },
+  "68494c9da475c57c6aac7668": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac7669": {
+    "type": "BOTH",
+    "global_cap": 94783,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac766a": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 22222
+  },
+  "68494c9da475c57c6aac766b": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac766c": {
+    "type": "BOTH",
+    "global_cap": 75929,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac766d": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 7087
+  },
+  "68494c9da475c57c6aac766e": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac766f": {
+    "type": "BOTH",
+    "global_cap": 80658,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7670": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 87272
+  },
+  "68494c9da475c57c6aac7671": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7672": {
+    "type": "BOTH",
+    "global_cap": 87919,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7673": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 60659
+  },
+  "68494c9da475c57c6aac7674": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7675": {
+    "type": "BOTH",
+    "global_cap": 99328,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7676": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 86705
+  },
+  "68494c9da475c57c6aac7677": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7678": {
+    "type": "BOTH",
+    "global_cap": 74130,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7679": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 78045
+  },
+  "68494c9da475c57c6aac767a": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac767b": {
+    "type": "BOTH",
+    "global_cap": 78222,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac767c": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 32610
+  },
+  "68494c9da475c57c6aac767d": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac767e": {
+    "type": "BOTH",
+    "global_cap": 60222,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac767f": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 37321
+  },
+  "68494c9da475c57c6aac7680": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac7681": {
+    "type": "BOTH",
+    "global_cap": 5814,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7682": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 28432
+  },
+  "68494c9da475c57c6aac7683": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7684": {
+    "type": "BOTH",
+    "global_cap": 81191,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7685": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 23728
+  },
+  "68494c9da475c57c6aac7686": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7687": {
+    "type": "BOTH",
+    "global_cap": 27746,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7688": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 6006
+  },
+  "68494c9da475c57c6aac7689": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac768a": {
+    "type": "BOTH",
+    "global_cap": 98312,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac768b": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 20490
+  },
+  "68494c9da475c57c6aac768c": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac768d": {
+    "type": "BOTH",
+    "global_cap": 63693,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac768e": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 68949
+  },
+  "68494c9da475c57c6aac768f": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7690": {
+    "type": "BOTH",
+    "global_cap": 6751,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7691": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 25293
+  },
+  "68494c9da475c57c6aac7692": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac7693": {
+    "type": "BOTH",
+    "global_cap": 5974,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac7694": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 2786
+  },
+  "68494c9da475c57c6aac7695": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7696": {
+    "type": "BOTH",
+    "global_cap": 34361,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7697": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 50953
+  },
+  "68494c9da475c57c6aac7698": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac7699": {
+    "type": "BOTH",
+    "global_cap": 75790,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac769a": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 26930
+  },
+  "68494c9da475c57c6aac769b": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac769c": {
+    "type": "BOTH",
+    "global_cap": 20299,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac769d": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 33496
+  },
+  "68494c9da475c57c6aac769e": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac769f": {
+    "type": "BOTH",
+    "global_cap": 65290,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac76a0": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 14968
+  },
+  "68494c9da475c57c6aac76a1": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac76a2": {
+    "type": "BOTH",
+    "global_cap": 48280,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac76a3": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 61974
+  },
+  "68494c9da475c57c6aac76a4": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac76a5": {
+    "type": "BOTH",
+    "global_cap": 57528,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac76a6": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 21772
+  },
+  "68494c9da475c57c6aac76a7": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac76a8": {
+    "type": "BOTH",
+    "global_cap": 86367,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac76a9": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 20077
+  },
+  "68494c9da475c57c6aac76aa": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac76ab": {
+    "type": "BOTH",
+    "global_cap": 88343,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac76ac": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 96654
+  },
+  "68494c9da475c57c6aac76ad": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac76ae": {
+    "type": "BOTH",
+    "global_cap": 98184,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac76af": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 5877
+  },
+  "68494c9da475c57c6aac76b0": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac76b1": {
+    "type": "BOTH",
+    "global_cap": 5182,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac76b2": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 37937
+  },
+  "68494c9da475c57c6aac76b3": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac76b4": {
+    "type": "BOTH",
+    "global_cap": 1308,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac76b5": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 47367
+  },
+  "68494c9da475c57c6aac76b6": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac76b7": {
+    "type": "BOTH",
+    "global_cap": 52759,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac76b8": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 71793
+  },
+  "68494c9da475c57c6aac76b9": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac76ba": {
+    "type": "BOTH",
+    "global_cap": 22146,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac76bb": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 88815
+  },
+  "68494c9da475c57c6aac76bc": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac76bd": {
+    "type": "BOTH",
+    "global_cap": 59200,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac76be": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 92116
+  },
+  "68494c9da475c57c6aac76bf": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac76c0": {
+    "type": "BOTH",
+    "global_cap": 63061,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac76c1": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 19168
+  },
+  "68494c9da475c57c6aac76c2": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac76c3": {
+    "type": "BOTH",
+    "global_cap": 77726,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac76c4": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 28256
+  },
+  "68494c9da475c57c6aac76c5": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac76c6": {
+    "type": "BOTH",
+    "global_cap": 81972,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac76c7": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 91944
+  },
+  "68494c9da475c57c6aac76c8": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac76c9": {
+    "type": "BOTH",
+    "global_cap": 95969,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac76ca": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 79028
+  },
+  "68494c9da475c57c6aac76cb": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac76cc": {
+    "type": "BOTH",
+    "global_cap": 93528,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac76cd": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 52603
+  },
+  "68494c9da475c57c6aac76ce": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac76cf": {
+    "type": "BOTH",
+    "global_cap": 66238,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac76d0": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 41410
+  },
+  "68494c9da475c57c6aac76d1": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac76d2": {
+    "type": "BOTH",
+    "global_cap": 26514,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac76d3": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 88974
+  },
+  "68494c9da475c57c6aac76d4": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac76d5": {
+    "type": "BOTH",
+    "global_cap": 44808,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac76d6": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 92544
+  },
+  "68494c9da475c57c6aac76d7": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac76d8": {
+    "type": "BOTH",
+    "global_cap": 82659,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac76d9": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 73991
+  },
+  "68494c9da475c57c6aac76da": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac76db": {
+    "type": "BOTH",
+    "global_cap": 20158,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac76dc": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 50124
+  },
+  "68494c9da475c57c6aac76dd": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac76de": {
+    "type": "BOTH",
+    "global_cap": 37080,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac76df": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 59608
+  },
+  "68494c9da475c57c6aac76e0": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac76e1": {
+    "type": "BOTH",
+    "global_cap": 75141,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac76e2": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 42268
+  },
+  "68494c9da475c57c6aac76e3": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac76e4": {
+    "type": "BOTH",
+    "global_cap": 27407,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac76e5": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 17951
+  },
+  "68494c9da475c57c6aac76e6": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac76e7": {
+    "type": "BOTH",
+    "global_cap": 57244,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac76e8": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 26524
+  },
+  "68494c9da475c57c6aac76e9": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac76ea": {
+    "type": "BOTH",
+    "global_cap": 58917,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac76eb": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 44156
+  },
+  "68494c9da475c57c6aac76ec": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac76ed": {
+    "type": "BOTH",
+    "global_cap": 89928,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac76ee": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 28810
+  },
+  "68494c9da475c57c6aac76ef": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac76f0": {
+    "type": "BOTH",
+    "global_cap": 4340,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac76f1": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 1107
+  },
+  "68494c9da475c57c6aac76f2": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac76f3": {
+    "type": "BOTH",
+    "global_cap": 78828,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac76f4": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 31268
+  },
+  "68494c9da475c57c6aac76f5": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac76f6": {
+    "type": "BOTH",
+    "global_cap": 26119,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac76f7": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 73966
+  },
+  "68494c9da475c57c6aac76f8": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac76f9": {
+    "type": "BOTH",
+    "global_cap": 39955,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac76fa": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 79172
+  },
+  "68494c9da475c57c6aac76fb": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac76fc": {
+    "type": "BOTH",
+    "global_cap": 16359,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac76fd": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 99327
+  },
+  "68494c9da475c57c6aac76fe": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac76ff": {
+    "type": "BOTH",
+    "global_cap": 48503,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7700": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 28701
+  },
+  "68494c9da475c57c6aac7701": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7702": {
+    "type": "BOTH",
+    "global_cap": 85105,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7703": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 61088
+  },
+  "68494c9da475c57c6aac7704": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7705": {
+    "type": "BOTH",
+    "global_cap": 95363,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac7706": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 97062
+  },
+  "68494c9da475c57c6aac7707": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7708": {
+    "type": "BOTH",
+    "global_cap": 64492,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7709": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 58917
+  },
+  "68494c9da475c57c6aac770a": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac770b": {
+    "type": "BOTH",
+    "global_cap": 36746,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac770c": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 44292
+  },
+  "68494c9da475c57c6aac770d": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac770e": {
+    "type": "BOTH",
+    "global_cap": 41438,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac770f": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 17735
+  },
+  "68494c9da475c57c6aac7710": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac7711": {
+    "type": "BOTH",
+    "global_cap": 77837,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7712": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 80597
+  },
+  "68494c9da475c57c6aac7713": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7714": {
+    "type": "BOTH",
+    "global_cap": 99421,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7715": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 86576
+  },
+  "68494c9da475c57c6aac7716": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac7717": {
+    "type": "BOTH",
+    "global_cap": 62637,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7718": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 93018
+  },
+  "68494c9da475c57c6aac7719": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac771a": {
+    "type": "BOTH",
+    "global_cap": 7393,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac771b": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 4383
+  },
+  "68494c9da475c57c6aac771c": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac771d": {
+    "type": "BOTH",
+    "global_cap": 59672,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac771e": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 78442
+  },
+  "68494c9da475c57c6aac771f": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7720": {
+    "type": "BOTH",
+    "global_cap": 64531,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7721": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 78148
+  },
+  "68494c9da475c57c6aac7722": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7723": {
+    "type": "BOTH",
+    "global_cap": 16936,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7724": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 40996
+  },
+  "68494c9da475c57c6aac7725": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7726": {
+    "type": "BOTH",
+    "global_cap": 48145,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7727": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 4807
+  },
+  "68494c9da475c57c6aac7728": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7729": {
+    "type": "BOTH",
+    "global_cap": 73579,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac772a": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 21963
+  },
+  "68494c9da475c57c6aac772b": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac772c": {
+    "type": "BOTH",
+    "global_cap": 73959,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac772d": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 16302
+  },
+  "68494c9da475c57c6aac772e": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac772f": {
+    "type": "BOTH",
+    "global_cap": 66076,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7730": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 43499
+  },
+  "68494c9da475c57c6aac7731": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7732": {
+    "type": "BOTH",
+    "global_cap": 50613,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7733": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 12524
+  },
+  "68494c9da475c57c6aac7734": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7735": {
+    "type": "BOTH",
+    "global_cap": 39303,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7736": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 25534
+  },
+  "68494c9da475c57c6aac7737": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7738": {
+    "type": "BOTH",
+    "global_cap": 17143,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7739": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 59857
+  },
+  "68494c9da475c57c6aac773a": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac773b": {
+    "type": "BOTH",
+    "global_cap": 68545,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac773c": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 91698
+  },
+  "68494c9da475c57c6aac773d": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac773e": {
+    "type": "BOTH",
+    "global_cap": 60338,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac773f": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 65898
+  },
+  "68494c9da475c57c6aac7740": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7741": {
+    "type": "BOTH",
+    "global_cap": 56277,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7742": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 24908
+  },
+  "68494c9da475c57c6aac7743": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7744": {
+    "type": "BOTH",
+    "global_cap": 17402,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7745": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 29996
+  },
+  "68494c9da475c57c6aac7746": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7747": {
+    "type": "BOTH",
+    "global_cap": 86334,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7748": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 95307
+  },
+  "68494c9da475c57c6aac7749": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac774a": {
+    "type": "BOTH",
+    "global_cap": 66473,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac774b": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 5032
+  },
+  "68494c9da475c57c6aac774c": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac774d": {
+    "type": "BOTH",
+    "global_cap": 95406,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac774e": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 34057
+  },
+  "68494c9da475c57c6aac774f": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7750": {
+    "type": "BOTH",
+    "global_cap": 68569,
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7751": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 77024
+  },
+  "68494c9da475c57c6aac7752": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7753": {
+    "type": "BOTH",
+    "global_cap": 97187,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7754": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 75115
+  },
+  "68494c9da475c57c6aac7755": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7756": {
+    "type": "BOTH",
+    "global_cap": 92507,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7757": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 90916
+  },
+  "68494c9da475c57c6aac7758": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7759": {
+    "type": "BOTH",
+    "global_cap": 74488,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac775a": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 18602
+  },
+  "68494c9da475c57c6aac775b": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac775c": {
+    "type": "BOTH",
+    "global_cap": 95928,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac775d": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 79414
+  },
+  "68494c9da475c57c6aac775e": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac775f": {
+    "type": "BOTH",
+    "global_cap": 91636,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7760": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 5264
+  },
+  "68494c9da475c57c6aac7761": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7762": {
+    "type": "BOTH",
+    "global_cap": 41064,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7763": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 43234
+  },
+  "68494c9da475c57c6aac7764": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7765": {
+    "type": "BOTH",
+    "global_cap": 17555,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7766": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 23783
+  },
+  "68494c9da475c57c6aac7767": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7768": {
+    "type": "BOTH",
+    "global_cap": 58318,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7769": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 51590
+  },
+  "68494c9da475c57c6aac776a": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac776b": {
+    "type": "BOTH",
+    "global_cap": 68896,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac776c": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 4367
+  },
+  "68494c9da475c57c6aac776d": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac776e": {
+    "type": "BOTH",
+    "global_cap": 21605,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac776f": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 23760
+  },
+  "68494c9da475c57c6aac7770": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7771": {
+    "type": "BOTH",
+    "global_cap": 4650,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7772": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 9881
+  },
+  "68494c9da475c57c6aac7773": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7774": {
+    "type": "BOTH",
+    "global_cap": 51033,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7775": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 36664
+  },
+  "68494c9da475c57c6aac7776": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac7777": {
+    "type": "BOTH",
+    "global_cap": 17642,
+    "user_cap": 10
+  },
+  "68494c9da475c57c6aac7778": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 52093
+  },
+  "68494c9da475c57c6aac7779": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac777a": {
+    "type": "BOTH",
+    "global_cap": 66841,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac777b": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 27796
+  },
+  "68494c9da475c57c6aac777c": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac777d": {
+    "type": "BOTH",
+    "global_cap": 88736,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac777e": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 34690
+  },
+  "68494c9da475c57c6aac777f": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7780": {
+    "type": "BOTH",
+    "global_cap": 84050,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7781": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 67239
+  },
+  "68494c9da475c57c6aac7782": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac7783": {
+    "type": "BOTH",
+    "global_cap": 15973,
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac7784": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 32050
+  },
+  "68494c9da475c57c6aac7785": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7786": {
+    "type": "BOTH",
+    "global_cap": 82900,
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7787": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 8370
+  },
+  "68494c9da475c57c6aac7788": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68494c9da475c57c6aac7789": {
+    "type": "BOTH",
+    "global_cap": 90880,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac778a": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 36797
+  },
+  "68494c9da475c57c6aac778b": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac778c": {
+    "type": "BOTH",
+    "global_cap": 20228,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac778d": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 59858
+  },
+  "68494c9da475c57c6aac778e": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac778f": {
+    "type": "BOTH",
+    "global_cap": 84650,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7790": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 28352
+  },
+  "68494c9da475c57c6aac7791": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68494c9da475c57c6aac7792": {
+    "type": "BOTH",
+    "global_cap": 62708,
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac7793": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 33663
+  },
+  "68494c9da475c57c6aac7794": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac7795": {
+    "type": "BOTH",
+    "global_cap": 25425,
+    "user_cap": 9
+  },
+  "68494c9da475c57c6aac7796": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 2891
+  },
+  "68494c9da475c57c6aac7797": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7798": {
+    "type": "BOTH",
+    "global_cap": 92049,
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac7799": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 21978
+  },
+  "68494c9da475c57c6aac779a": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68494c9da475c57c6aac779b": {
+    "type": "BOTH",
+    "global_cap": 1522,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac779c": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 52948
+  },
+  "68494c9da475c57c6aac779d": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac779e": {
+    "type": "BOTH",
+    "global_cap": 64100,
+    "user_cap": 8
+  },
+  "68494c9da475c57c6aac779f": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 57447
+  },
+  "68494c9da475c57c6aac77a0": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac77a1": {
+    "type": "BOTH",
+    "global_cap": 26656,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac77a2": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 70356
+  },
+  "68494c9da475c57c6aac77a3": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68494c9da475c57c6aac77a4": {
+    "type": "BOTH",
+    "global_cap": 20471,
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac77a5": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 41678
+  },
+  "68494c9da475c57c6aac77a6": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68494c9da475c57c6aac77a7": {
+    "type": "BOTH",
+    "global_cap": 65676,
+    "user_cap": 7
+  },
+  "68494c9da475c57c6aac77a8": {
+    "type": "GLOBAL_ONLY",
+    "global_cap": 89182
+  },
+  "68494c9da475c57c6aac77a9": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68494c9da475c57c6aac77aa": {
+    "type": "BOTH",
+    "global_cap": 40839,
+    "user_cap": 5
+  }
+}

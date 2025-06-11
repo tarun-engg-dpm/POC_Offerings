@@ -1,0 +1,402 @@
+{
+  "68496d00a475c59766313777": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68496d00a475c59766313778": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68496d00a475c59766313779": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68496d00a475c5976631377a": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68496d00a475c5976631377b": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68496d00a475c5976631377c": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68496d00a475c5976631377d": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68496d00a475c5976631377e": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68496d00a475c5976631377f": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68496d00a475c59766313780": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68496d00a475c59766313781": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68496d00a475c59766313782": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68496d00a475c59766313783": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68496d00a475c59766313784": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68496d00a475c59766313785": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68496d00a475c59766313786": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68496d00a475c59766313787": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68496d00a475c59766313788": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68496d00a475c59766313789": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68496d00a475c5976631378a": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68496d00a475c5976631378b": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68496d00a475c5976631378c": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68496d00a475c5976631378d": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68496d00a475c5976631378e": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68496d00a475c5976631378f": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68496d00a475c59766313790": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68496d00a475c59766313791": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68496d00a475c59766313792": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68496d00a475c59766313793": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68496d00a475c59766313794": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68496d00a475c59766313795": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68496d00a475c59766313796": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68496d00a475c59766313797": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68496d00a475c59766313798": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68496d00a475c59766313799": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68496d00a475c5976631379a": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68496d00a475c5976631379b": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68496d00a475c5976631379c": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68496d00a475c5976631379d": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68496d00a475c5976631379e": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68496d00a475c5976631379f": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68496d00a475c597663137a0": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68496d00a475c597663137a1": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68496d00a475c597663137a2": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68496d00a475c597663137a3": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68496d00a475c597663137a4": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68496d00a475c597663137a5": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68496d00a475c597663137a6": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68496d00a475c597663137a7": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68496d00a475c597663137a8": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68496d00a475c597663137a9": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68496d00a475c597663137aa": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68496d00a475c597663137ab": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68496d00a475c597663137ac": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68496d00a475c597663137ad": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68496d00a475c597663137ae": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68496d00a475c597663137af": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68496d00a475c597663137b0": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68496d00a475c597663137b1": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68496d00a475c597663137b2": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68496d00a475c597663137b3": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68496d00a475c597663137b4": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68496d00a475c597663137b5": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68496d00a475c597663137b6": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68496d00a475c597663137b7": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68496d00a475c597663137b8": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68496d00a475c597663137b9": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68496d00a475c597663137ba": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68496d00a475c597663137bb": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68496d00a475c597663137bc": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68496d00a475c597663137bd": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68496d00a475c597663137be": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68496d00a475c597663137bf": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68496d00a475c597663137c0": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68496d00a475c597663137c1": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68496d00a475c597663137c2": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68496d00a475c597663137c3": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68496d00a475c597663137c4": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68496d00a475c597663137c5": {
+    "type": "USER_ONLY",
+    "user_cap": 3
+  },
+  "68496d00a475c597663137c6": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68496d00a475c597663137c7": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68496d00a475c597663137c8": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68496d00a475c597663137c9": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68496d00a475c597663137ca": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68496d00a475c597663137cb": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68496d00a475c597663137cc": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68496d00a475c597663137cd": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68496d00a475c597663137ce": {
+    "type": "USER_ONLY",
+    "user_cap": 7
+  },
+  "68496d00a475c597663137cf": {
+    "type": "USER_ONLY",
+    "user_cap": 2
+  },
+  "68496d00a475c597663137d0": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68496d00a475c597663137d1": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68496d00a475c597663137d2": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  },
+  "68496d00a475c597663137d3": {
+    "type": "USER_ONLY",
+    "user_cap": 9
+  },
+  "68496d00a475c597663137d4": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68496d00a475c597663137d5": {
+    "type": "USER_ONLY",
+    "user_cap": 5
+  },
+  "68496d00a475c597663137d6": {
+    "type": "USER_ONLY",
+    "user_cap": 6
+  },
+  "68496d00a475c597663137d7": {
+    "type": "USER_ONLY",
+    "user_cap": 8
+  },
+  "68496d00a475c597663137d8": {
+    "type": "USER_ONLY",
+    "user_cap": 10
+  },
+  "68496d00a475c597663137d9": {
+    "type": "USER_ONLY",
+    "user_cap": 1
+  },
+  "68496d00a475c597663137da": {
+    "type": "USER_ONLY",
+    "user_cap": 4
+  }
+}
