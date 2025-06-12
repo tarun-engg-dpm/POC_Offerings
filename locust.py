@@ -8,8 +8,10 @@ from locust import User, task, between, events
 from bson import ObjectId
 
 # --- Configuration (from your script's comments) ---
-
-REDIS_HOST = os.environ.get("REDIS_HOST", "dpm-offerings-cache.e6nc9i.clustercfg.aps1.cache.amazonaws.com")
+BOTH = "BOTH"
+USER_ONLY = "USER_ONLY"
+GLOBAL_ONLY = "GLOBAL_ONLY"
+REDIS_HOST = os.environ.get("REDIS_HOST", "dpm-offerings-clustered.e6nc9i.clustercfg.aps1.cache.amazonaws.com")
 REDIS_PORT = int(os.environ.get("REDIS_PORT", 6379))
 OFFERS_JSON_FILE = os.environ.get("OFFERS_JSON_FILE", "resources/both_only.json")
 # export OFFERS_JSON_FILE="resources/user_only.json"
@@ -21,7 +23,28 @@ OFFERS_TO_SAMPLE_PER_TASK = 10  # How many offers each user will try to claim
 OFFER_CONFIGS = {}
 ALL_OFFER_IDS = []
 
-
+@events.init_command_line_parser.add_listener
+def add_custom_arguments(parser):
+    """
+    Adds our custom --offers-to-sample argument to the Locust parser.
+    """
+    print("Registering custom command-line arguments...")
+    parser.add_argument(
+        "--offers-to-sample",
+        type=int,
+        # Allow setting via environment variable too: LOCUST_OFFERS_TO_SAMPLE=10
+        env_var="LOCUST_OFFERS_TO_SAMPLE",
+        default=OFFERS_TO_SAMPLE_PER_TASK, # The default value if the argument is not provided
+        help="Number of random offers each user task should attempt to claim (default: 5)."
+    )
+    parser.add_argument(
+        "--offers-type",
+        type=str,
+        choices=["RANDOM", "USER_ONLY", "GLOBAL_ONLY", "BOTH"],
+        env_var="LOCUST_OFFERS_TYPE",
+        default="RANDOM",  # Default to RANDOM if not specified
+        help="Type of offers to sample: RANDOM, USER_ONLY, GLOBAL_ONLY, or BOTH (default: RANDOM)."
+    )
 
 @events.test_start.add_listener
 def on_test_start(environment, **kwargs):
@@ -29,7 +52,7 @@ def on_test_start(environment, **kwargs):
     Called once when the Locust test starts. Loads offer configurations from the JSON file.
     """
     global OFFER_CONFIGS, ALL_OFFER_IDS
-
+    offers_to_sample = environment.parsed_options.offers_to_sample
     print(f"Loading offer configurations from '{OFFERS_JSON_FILE}'...")
     try:
         with open(OFFERS_JSON_FILE, 'r') as f:
@@ -38,7 +61,7 @@ def on_test_start(environment, **kwargs):
         # Create a list of all offer IDs for easy random sampling
         ALL_OFFER_IDS = list(OFFER_CONFIGS.keys())
 
-        if not ALL_OFFER_IDS or len(ALL_OFFER_IDS) < OFFERS_TO_SAMPLE_PER_TASK:
+        if not ALL_OFFER_IDS or len(ALL_OFFER_IDS) < offers_to_sample:
             print(f"Error: The offers file must exist and contain at least {OFFERS_TO_SAMPLE_PER_TASK} offers.")
             environment.runner.quit()
         else:
@@ -120,7 +143,7 @@ class RedisUser(User):
         expire_at_timestamp = int(expire_datetime.timestamp())
         offers_for_global_incr = []
         results_summary = {}
-
+        offer_type = self.environment.parsed_options.offers_type
         # --- Pipeline 1: Handle all User-Level and Global-Only checks ---
         pipe = self.client.pipeline(transaction=False)
         valid_offers_in_pipeline1 = []
@@ -131,19 +154,13 @@ class RedisUser(User):
             # valid_offers_in_pipeline1.append(offer_id)
             cap_type = config['type']
 
-            # if cap_type == 'GLOBAL_ONLY':
-            #     key = f"offer:{offer_id}:{current_date_str}"
-            #     args = [config['global_cap'], expire_at_timestamp]
-            #     self.global_script(keys=[key], args=args, client=pipe)
-            #     valid_offers_in_pipeline1.append(offer_id)
-            #
-            # if cap_type in ['USER_ONLY']:
-            #     key = f"user_offer:{{{user_id}}}:{offer_id}:{current_date_str}"
-            #     args = [config['user_cap'], expire_at_timestamp]
-            #     self.user_script(keys=[key], args=args, client=pipe)
-            #     valid_offers_in_pipeline1.append(offer_id)
+            if offer_type == GLOBAL_ONLY and cap_type == 'GLOBAL_ONLY':
+                key = f"offer:{offer_id}:{current_date_str}"
+                args = [config['global_cap'], expire_at_timestamp]
+                self.global_script(keys=[key], args=args, client=pipe)
+                valid_offers_in_pipeline1.append(offer_id)
 
-            if cap_type in ['BOTH']:
+            if offer_type in ['BOTH','USER_ONLY'] and cap_type in ['BOTH','USER_ONLY']:
                 key = f"user_offer:{{{user_id}}}:{offer_id}:{current_date_str}"
                 args = [config['user_cap'], expire_at_timestamp]
                 self.user_script(keys=[key], args=args, client=pipe)
@@ -181,7 +198,8 @@ class RedisUser(User):
         The main Locust task. It wraps the call to the pipeline logic and measures performance.
         """
         user_id = str(ObjectId())
-        offers_to_try = random.sample(ALL_OFFER_IDS, k=OFFERS_TO_SAMPLE_PER_TASK)
+        offers_to_sample = self.environment.parsed_options.offers_to_sample
+        offers_to_try = random.sample(ALL_OFFER_IDS, k=offers_to_sample)
 
         request_name = "pipeline:claim_offers"
         start_time = time.time()
