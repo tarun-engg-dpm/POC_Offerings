@@ -69,7 +69,7 @@ class RedisUser(User):
     """
     Simulates a user securing 'N' offers using the cluster-safe, iterative-atomic method.
     """
-    wait_time = between(0.05, 0.1)  # Wait 100-500ms between tasks
+    wait_time = between(0.01, 0.02)  # Wait 100-500ms between tasks
 
     def on_start(self):
         """Called once per user. Connects to the Redis Cluster and registers scripts."""
