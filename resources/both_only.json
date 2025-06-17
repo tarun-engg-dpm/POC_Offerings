@@ -1,502 +1,5002 @@
 {
-  "68496d36a475c597a9059805": {
+  "6851398f442ff27192fe66c2": {
     "type": "BOTH",
-    "global_cap": 83218,
-    "user_cap": 6
+    "global_cap": 82406,
+    "user_cap": 9
   },
-  "68496d36a475c597a9059806": {
+  "6851398f442ff27192fe66c3": {
     "type": "BOTH",
-    "global_cap": 14309,
+    "global_cap": 1932,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe66c4": {
+    "type": "BOTH",
+    "global_cap": 96106,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe66c5": {
+    "type": "BOTH",
+    "global_cap": 31422,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe66c6": {
+    "type": "BOTH",
+    "global_cap": 88264,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe66c7": {
+    "type": "BOTH",
+    "global_cap": 34328,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe66c8": {
+    "type": "BOTH",
+    "global_cap": 30531,
     "user_cap": 5
   },
-  "68496d36a475c597a9059807": {
+  "6851398f442ff27192fe66c9": {
     "type": "BOTH",
-    "global_cap": 42950,
-    "user_cap": 5
-  },
-  "68496d36a475c597a9059808": {
-    "type": "BOTH",
-    "global_cap": 36730,
-    "user_cap": 5
-  },
-  "68496d36a475c597a9059809": {
-    "type": "BOTH",
-    "global_cap": 49828,
-    "user_cap": 4
-  },
-  "68496d36a475c597a905980a": {
-    "type": "BOTH",
-    "global_cap": 12171,
-    "user_cap": 2
-  },
-  "68496d36a475c597a905980b": {
-    "type": "BOTH",
-    "global_cap": 33199,
+    "global_cap": 49164,
     "user_cap": 1
   },
-  "68496d36a475c597a905980c": {
+  "6851398f442ff27192fe66ca": {
     "type": "BOTH",
-    "global_cap": 99154,
+    "global_cap": 20408,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe66cb": {
+    "type": "BOTH",
+    "global_cap": 99968,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe66cc": {
+    "type": "BOTH",
+    "global_cap": 50404,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe66cd": {
+    "type": "BOTH",
+    "global_cap": 92760,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe66ce": {
+    "type": "BOTH",
+    "global_cap": 54438,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe66cf": {
+    "type": "BOTH",
+    "global_cap": 39956,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe66d0": {
+    "type": "BOTH",
+    "global_cap": 35055,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe66d1": {
+    "type": "BOTH",
+    "global_cap": 76659,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe66d2": {
+    "type": "BOTH",
+    "global_cap": 1433,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe66d3": {
+    "type": "BOTH",
+    "global_cap": 84219,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe66d4": {
+    "type": "BOTH",
+    "global_cap": 13722,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe66d5": {
+    "type": "BOTH",
+    "global_cap": 86543,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe66d6": {
+    "type": "BOTH",
+    "global_cap": 94877,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe66d7": {
+    "type": "BOTH",
+    "global_cap": 77731,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe66d8": {
+    "type": "BOTH",
+    "global_cap": 4760,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe66d9": {
+    "type": "BOTH",
+    "global_cap": 64034,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe66da": {
+    "type": "BOTH",
+    "global_cap": 18024,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe66db": {
+    "type": "BOTH",
+    "global_cap": 53724,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe66dc": {
+    "type": "BOTH",
+    "global_cap": 39069,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe66dd": {
+    "type": "BOTH",
+    "global_cap": 13331,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe66de": {
+    "type": "BOTH",
+    "global_cap": 62095,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe66df": {
+    "type": "BOTH",
+    "global_cap": 1067,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe66e0": {
+    "type": "BOTH",
+    "global_cap": 4660,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe66e1": {
+    "type": "BOTH",
+    "global_cap": 96539,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe66e2": {
+    "type": "BOTH",
+    "global_cap": 27479,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe66e3": {
+    "type": "BOTH",
+    "global_cap": 14976,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe66e4": {
+    "type": "BOTH",
+    "global_cap": 54894,
     "user_cap": 2
   },
-  "68496d36a475c597a905980d": {
+  "6851398f442ff27192fe66e5": {
+    "type": "BOTH",
+    "global_cap": 7602,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe66e6": {
+    "type": "BOTH",
+    "global_cap": 62716,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe66e7": {
+    "type": "BOTH",
+    "global_cap": 32134,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe66e8": {
+    "type": "BOTH",
+    "global_cap": 53562,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe66e9": {
+    "type": "BOTH",
+    "global_cap": 74441,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe66ea": {
+    "type": "BOTH",
+    "global_cap": 61634,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe66eb": {
+    "type": "BOTH",
+    "global_cap": 88960,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe66ec": {
+    "type": "BOTH",
+    "global_cap": 76699,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe66ed": {
+    "type": "BOTH",
+    "global_cap": 81890,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe66ee": {
+    "type": "BOTH",
+    "global_cap": 72781,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe66ef": {
+    "type": "BOTH",
+    "global_cap": 54185,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe66f0": {
+    "type": "BOTH",
+    "global_cap": 69531,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe66f1": {
+    "type": "BOTH",
+    "global_cap": 31599,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe66f2": {
+    "type": "BOTH",
+    "global_cap": 8192,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe66f3": {
+    "type": "BOTH",
+    "global_cap": 92515,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe66f4": {
+    "type": "BOTH",
+    "global_cap": 57648,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe66f5": {
+    "type": "BOTH",
+    "global_cap": 21420,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe66f6": {
+    "type": "BOTH",
+    "global_cap": 66041,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe66f7": {
+    "type": "BOTH",
+    "global_cap": 50364,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe66f8": {
+    "type": "BOTH",
+    "global_cap": 50887,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe66f9": {
+    "type": "BOTH",
+    "global_cap": 32315,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe66fa": {
+    "type": "BOTH",
+    "global_cap": 74835,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe66fb": {
+    "type": "BOTH",
+    "global_cap": 83257,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe66fc": {
+    "type": "BOTH",
+    "global_cap": 49743,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe66fd": {
+    "type": "BOTH",
+    "global_cap": 38029,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe66fe": {
+    "type": "BOTH",
+    "global_cap": 76398,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe66ff": {
+    "type": "BOTH",
+    "global_cap": 32253,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6700": {
+    "type": "BOTH",
+    "global_cap": 86342,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6701": {
+    "type": "BOTH",
+    "global_cap": 87971,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6702": {
+    "type": "BOTH",
+    "global_cap": 63406,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6703": {
+    "type": "BOTH",
+    "global_cap": 82200,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6704": {
+    "type": "BOTH",
+    "global_cap": 18871,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6705": {
+    "type": "BOTH",
+    "global_cap": 53194,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6706": {
+    "type": "BOTH",
+    "global_cap": 32646,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6707": {
+    "type": "BOTH",
+    "global_cap": 44921,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6708": {
+    "type": "BOTH",
+    "global_cap": 62655,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6709": {
+    "type": "BOTH",
+    "global_cap": 69040,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe670a": {
+    "type": "BOTH",
+    "global_cap": 51841,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe670b": {
+    "type": "BOTH",
+    "global_cap": 77371,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe670c": {
+    "type": "BOTH",
+    "global_cap": 69499,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe670d": {
+    "type": "BOTH",
+    "global_cap": 71112,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe670e": {
+    "type": "BOTH",
+    "global_cap": 54806,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe670f": {
+    "type": "BOTH",
+    "global_cap": 58166,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6710": {
+    "type": "BOTH",
+    "global_cap": 42943,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6711": {
+    "type": "BOTH",
+    "global_cap": 89793,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6712": {
+    "type": "BOTH",
+    "global_cap": 56316,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6713": {
+    "type": "BOTH",
+    "global_cap": 34394,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6714": {
+    "type": "BOTH",
+    "global_cap": 8363,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6715": {
+    "type": "BOTH",
+    "global_cap": 67987,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6716": {
+    "type": "BOTH",
+    "global_cap": 49493,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6717": {
+    "type": "BOTH",
+    "global_cap": 89267,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6718": {
+    "type": "BOTH",
+    "global_cap": 79525,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6719": {
+    "type": "BOTH",
+    "global_cap": 61944,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe671a": {
+    "type": "BOTH",
+    "global_cap": 42615,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe671b": {
+    "type": "BOTH",
+    "global_cap": 49254,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe671c": {
+    "type": "BOTH",
+    "global_cap": 88179,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe671d": {
+    "type": "BOTH",
+    "global_cap": 99446,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe671e": {
+    "type": "BOTH",
+    "global_cap": 33417,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe671f": {
+    "type": "BOTH",
+    "global_cap": 3938,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6720": {
+    "type": "BOTH",
+    "global_cap": 25952,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6721": {
+    "type": "BOTH",
+    "global_cap": 29795,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6722": {
+    "type": "BOTH",
+    "global_cap": 33268,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6723": {
+    "type": "BOTH",
+    "global_cap": 90866,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6724": {
+    "type": "BOTH",
+    "global_cap": 16210,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6725": {
+    "type": "BOTH",
+    "global_cap": 56874,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6726": {
+    "type": "BOTH",
+    "global_cap": 75002,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6727": {
+    "type": "BOTH",
+    "global_cap": 14040,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6728": {
+    "type": "BOTH",
+    "global_cap": 46404,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6729": {
+    "type": "BOTH",
+    "global_cap": 71396,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe672a": {
+    "type": "BOTH",
+    "global_cap": 13083,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe672b": {
+    "type": "BOTH",
+    "global_cap": 80715,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe672c": {
+    "type": "BOTH",
+    "global_cap": 37687,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe672d": {
+    "type": "BOTH",
+    "global_cap": 71805,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe672e": {
+    "type": "BOTH",
+    "global_cap": 24735,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe672f": {
+    "type": "BOTH",
+    "global_cap": 85604,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6730": {
+    "type": "BOTH",
+    "global_cap": 19980,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6731": {
+    "type": "BOTH",
+    "global_cap": 92907,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6732": {
+    "type": "BOTH",
+    "global_cap": 31345,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6733": {
+    "type": "BOTH",
+    "global_cap": 44912,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6734": {
+    "type": "BOTH",
+    "global_cap": 44731,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6735": {
+    "type": "BOTH",
+    "global_cap": 95905,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6736": {
+    "type": "BOTH",
+    "global_cap": 46100,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6737": {
+    "type": "BOTH",
+    "global_cap": 58116,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6738": {
+    "type": "BOTH",
+    "global_cap": 44737,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6739": {
+    "type": "BOTH",
+    "global_cap": 34295,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe673a": {
+    "type": "BOTH",
+    "global_cap": 34706,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe673b": {
+    "type": "BOTH",
+    "global_cap": 16559,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe673c": {
+    "type": "BOTH",
+    "global_cap": 18184,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe673d": {
+    "type": "BOTH",
+    "global_cap": 11105,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe673e": {
+    "type": "BOTH",
+    "global_cap": 26031,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe673f": {
+    "type": "BOTH",
+    "global_cap": 90854,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6740": {
+    "type": "BOTH",
+    "global_cap": 5530,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6741": {
+    "type": "BOTH",
+    "global_cap": 63480,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6742": {
+    "type": "BOTH",
+    "global_cap": 12725,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6743": {
+    "type": "BOTH",
+    "global_cap": 65770,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6744": {
+    "type": "BOTH",
+    "global_cap": 83076,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6745": {
+    "type": "BOTH",
+    "global_cap": 6816,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6746": {
+    "type": "BOTH",
+    "global_cap": 96586,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6747": {
+    "type": "BOTH",
+    "global_cap": 71772,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6748": {
+    "type": "BOTH",
+    "global_cap": 84006,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6749": {
+    "type": "BOTH",
+    "global_cap": 15385,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe674a": {
+    "type": "BOTH",
+    "global_cap": 65200,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe674b": {
+    "type": "BOTH",
+    "global_cap": 7058,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe674c": {
+    "type": "BOTH",
+    "global_cap": 66647,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe674d": {
+    "type": "BOTH",
+    "global_cap": 19720,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe674e": {
+    "type": "BOTH",
+    "global_cap": 58318,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe674f": {
+    "type": "BOTH",
+    "global_cap": 4581,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6750": {
+    "type": "BOTH",
+    "global_cap": 10457,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6751": {
+    "type": "BOTH",
+    "global_cap": 11793,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6752": {
+    "type": "BOTH",
+    "global_cap": 85657,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6753": {
+    "type": "BOTH",
+    "global_cap": 38951,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6754": {
+    "type": "BOTH",
+    "global_cap": 95663,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6755": {
+    "type": "BOTH",
+    "global_cap": 56413,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6756": {
+    "type": "BOTH",
+    "global_cap": 98040,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6757": {
+    "type": "BOTH",
+    "global_cap": 23068,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6758": {
+    "type": "BOTH",
+    "global_cap": 83229,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6759": {
+    "type": "BOTH",
+    "global_cap": 24053,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe675a": {
+    "type": "BOTH",
+    "global_cap": 12623,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe675b": {
+    "type": "BOTH",
+    "global_cap": 25908,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe675c": {
+    "type": "BOTH",
+    "global_cap": 63440,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe675d": {
+    "type": "BOTH",
+    "global_cap": 57827,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe675e": {
+    "type": "BOTH",
+    "global_cap": 82216,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe675f": {
+    "type": "BOTH",
+    "global_cap": 26246,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6760": {
+    "type": "BOTH",
+    "global_cap": 33730,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6761": {
+    "type": "BOTH",
+    "global_cap": 47068,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6762": {
+    "type": "BOTH",
+    "global_cap": 7940,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6763": {
+    "type": "BOTH",
+    "global_cap": 60867,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6764": {
+    "type": "BOTH",
+    "global_cap": 8706,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6765": {
+    "type": "BOTH",
+    "global_cap": 69073,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6766": {
+    "type": "BOTH",
+    "global_cap": 68397,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6767": {
+    "type": "BOTH",
+    "global_cap": 38839,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6768": {
+    "type": "BOTH",
+    "global_cap": 30150,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6769": {
+    "type": "BOTH",
+    "global_cap": 41043,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe676a": {
+    "type": "BOTH",
+    "global_cap": 89074,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe676b": {
+    "type": "BOTH",
+    "global_cap": 35455,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe676c": {
+    "type": "BOTH",
+    "global_cap": 70022,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe676d": {
+    "type": "BOTH",
+    "global_cap": 32076,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe676e": {
+    "type": "BOTH",
+    "global_cap": 37155,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe676f": {
+    "type": "BOTH",
+    "global_cap": 62764,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6770": {
+    "type": "BOTH",
+    "global_cap": 52842,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6771": {
+    "type": "BOTH",
+    "global_cap": 1244,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6772": {
+    "type": "BOTH",
+    "global_cap": 75588,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6773": {
+    "type": "BOTH",
+    "global_cap": 27849,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6774": {
+    "type": "BOTH",
+    "global_cap": 49526,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6775": {
+    "type": "BOTH",
+    "global_cap": 15599,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6776": {
+    "type": "BOTH",
+    "global_cap": 68031,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6777": {
+    "type": "BOTH",
+    "global_cap": 74873,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6778": {
+    "type": "BOTH",
+    "global_cap": 25784,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6779": {
+    "type": "BOTH",
+    "global_cap": 67665,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe677a": {
+    "type": "BOTH",
+    "global_cap": 16461,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe677b": {
+    "type": "BOTH",
+    "global_cap": 67946,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe677c": {
+    "type": "BOTH",
+    "global_cap": 21526,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe677d": {
+    "type": "BOTH",
+    "global_cap": 47123,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe677e": {
+    "type": "BOTH",
+    "global_cap": 3787,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe677f": {
+    "type": "BOTH",
+    "global_cap": 6142,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6780": {
+    "type": "BOTH",
+    "global_cap": 17445,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6781": {
+    "type": "BOTH",
+    "global_cap": 31655,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6782": {
+    "type": "BOTH",
+    "global_cap": 39285,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6783": {
+    "type": "BOTH",
+    "global_cap": 75725,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6784": {
+    "type": "BOTH",
+    "global_cap": 29722,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6785": {
+    "type": "BOTH",
+    "global_cap": 55962,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6786": {
+    "type": "BOTH",
+    "global_cap": 42174,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6787": {
+    "type": "BOTH",
+    "global_cap": 82012,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6788": {
+    "type": "BOTH",
+    "global_cap": 66567,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6789": {
+    "type": "BOTH",
+    "global_cap": 33245,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe678a": {
+    "type": "BOTH",
+    "global_cap": 98018,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe678b": {
+    "type": "BOTH",
+    "global_cap": 34677,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe678c": {
+    "type": "BOTH",
+    "global_cap": 97547,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe678d": {
+    "type": "BOTH",
+    "global_cap": 6050,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe678e": {
+    "type": "BOTH",
+    "global_cap": 67114,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe678f": {
+    "type": "BOTH",
+    "global_cap": 39282,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6790": {
+    "type": "BOTH",
+    "global_cap": 67577,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6791": {
+    "type": "BOTH",
+    "global_cap": 93095,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6792": {
+    "type": "BOTH",
+    "global_cap": 57018,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6793": {
+    "type": "BOTH",
+    "global_cap": 42430,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6794": {
+    "type": "BOTH",
+    "global_cap": 74185,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6795": {
+    "type": "BOTH",
+    "global_cap": 76166,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6796": {
+    "type": "BOTH",
+    "global_cap": 12958,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6797": {
+    "type": "BOTH",
+    "global_cap": 31389,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6798": {
+    "type": "BOTH",
+    "global_cap": 62237,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6799": {
+    "type": "BOTH",
+    "global_cap": 80477,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe679a": {
+    "type": "BOTH",
+    "global_cap": 33735,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe679b": {
+    "type": "BOTH",
+    "global_cap": 48735,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe679c": {
+    "type": "BOTH",
+    "global_cap": 78340,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe679d": {
+    "type": "BOTH",
+    "global_cap": 20099,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe679e": {
+    "type": "BOTH",
+    "global_cap": 4357,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe679f": {
+    "type": "BOTH",
+    "global_cap": 81205,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe67a0": {
+    "type": "BOTH",
+    "global_cap": 94459,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe67a1": {
+    "type": "BOTH",
+    "global_cap": 46892,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe67a2": {
+    "type": "BOTH",
+    "global_cap": 19413,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe67a3": {
+    "type": "BOTH",
+    "global_cap": 72690,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe67a4": {
+    "type": "BOTH",
+    "global_cap": 8917,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe67a5": {
+    "type": "BOTH",
+    "global_cap": 29371,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe67a6": {
+    "type": "BOTH",
+    "global_cap": 57525,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe67a7": {
+    "type": "BOTH",
+    "global_cap": 91618,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe67a8": {
+    "type": "BOTH",
+    "global_cap": 14383,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe67a9": {
+    "type": "BOTH",
+    "global_cap": 16673,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe67aa": {
+    "type": "BOTH",
+    "global_cap": 65216,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe67ab": {
+    "type": "BOTH",
+    "global_cap": 78286,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe67ac": {
+    "type": "BOTH",
+    "global_cap": 13486,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe67ad": {
+    "type": "BOTH",
+    "global_cap": 82230,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe67ae": {
+    "type": "BOTH",
+    "global_cap": 14997,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe67af": {
+    "type": "BOTH",
+    "global_cap": 14080,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe67b0": {
+    "type": "BOTH",
+    "global_cap": 70652,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe67b1": {
+    "type": "BOTH",
+    "global_cap": 94514,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe67b2": {
+    "type": "BOTH",
+    "global_cap": 24926,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe67b3": {
+    "type": "BOTH",
+    "global_cap": 36814,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe67b4": {
+    "type": "BOTH",
+    "global_cap": 54355,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe67b5": {
+    "type": "BOTH",
+    "global_cap": 10242,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe67b6": {
+    "type": "BOTH",
+    "global_cap": 48088,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe67b7": {
+    "type": "BOTH",
+    "global_cap": 30713,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe67b8": {
+    "type": "BOTH",
+    "global_cap": 16260,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe67b9": {
+    "type": "BOTH",
+    "global_cap": 61994,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe67ba": {
+    "type": "BOTH",
+    "global_cap": 22580,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe67bb": {
+    "type": "BOTH",
+    "global_cap": 18128,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe67bc": {
+    "type": "BOTH",
+    "global_cap": 34504,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe67bd": {
+    "type": "BOTH",
+    "global_cap": 5536,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe67be": {
+    "type": "BOTH",
+    "global_cap": 51368,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe67bf": {
+    "type": "BOTH",
+    "global_cap": 72997,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe67c0": {
+    "type": "BOTH",
+    "global_cap": 25719,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe67c1": {
+    "type": "BOTH",
+    "global_cap": 78686,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe67c2": {
+    "type": "BOTH",
+    "global_cap": 51024,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe67c3": {
+    "type": "BOTH",
+    "global_cap": 38542,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe67c4": {
+    "type": "BOTH",
+    "global_cap": 99001,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe67c5": {
+    "type": "BOTH",
+    "global_cap": 24795,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe67c6": {
+    "type": "BOTH",
+    "global_cap": 50508,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe67c7": {
+    "type": "BOTH",
+    "global_cap": 84098,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe67c8": {
+    "type": "BOTH",
+    "global_cap": 30972,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe67c9": {
+    "type": "BOTH",
+    "global_cap": 94524,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe67ca": {
+    "type": "BOTH",
+    "global_cap": 82750,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe67cb": {
+    "type": "BOTH",
+    "global_cap": 17518,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe67cc": {
+    "type": "BOTH",
+    "global_cap": 8968,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe67cd": {
+    "type": "BOTH",
+    "global_cap": 73535,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe67ce": {
+    "type": "BOTH",
+    "global_cap": 79938,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe67cf": {
+    "type": "BOTH",
+    "global_cap": 51516,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe67d0": {
+    "type": "BOTH",
+    "global_cap": 48341,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe67d1": {
+    "type": "BOTH",
+    "global_cap": 69971,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe67d2": {
+    "type": "BOTH",
+    "global_cap": 3277,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe67d3": {
+    "type": "BOTH",
+    "global_cap": 43663,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe67d4": {
+    "type": "BOTH",
+    "global_cap": 25639,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe67d5": {
+    "type": "BOTH",
+    "global_cap": 53693,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe67d6": {
+    "type": "BOTH",
+    "global_cap": 48011,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe67d7": {
+    "type": "BOTH",
+    "global_cap": 23252,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe67d8": {
+    "type": "BOTH",
+    "global_cap": 46559,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe67d9": {
+    "type": "BOTH",
+    "global_cap": 98410,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe67da": {
+    "type": "BOTH",
+    "global_cap": 88956,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe67db": {
+    "type": "BOTH",
+    "global_cap": 26277,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe67dc": {
+    "type": "BOTH",
+    "global_cap": 24279,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe67dd": {
+    "type": "BOTH",
+    "global_cap": 51299,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe67de": {
+    "type": "BOTH",
+    "global_cap": 75571,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe67df": {
+    "type": "BOTH",
+    "global_cap": 52943,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe67e0": {
+    "type": "BOTH",
+    "global_cap": 64207,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe67e1": {
+    "type": "BOTH",
+    "global_cap": 31798,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe67e2": {
+    "type": "BOTH",
+    "global_cap": 62600,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe67e3": {
+    "type": "BOTH",
+    "global_cap": 12590,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe67e4": {
+    "type": "BOTH",
+    "global_cap": 26643,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe67e5": {
+    "type": "BOTH",
+    "global_cap": 45674,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe67e6": {
+    "type": "BOTH",
+    "global_cap": 44157,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe67e7": {
+    "type": "BOTH",
+    "global_cap": 69150,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe67e8": {
+    "type": "BOTH",
+    "global_cap": 32309,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe67e9": {
+    "type": "BOTH",
+    "global_cap": 88740,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe67ea": {
+    "type": "BOTH",
+    "global_cap": 49099,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe67eb": {
+    "type": "BOTH",
+    "global_cap": 79660,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe67ec": {
+    "type": "BOTH",
+    "global_cap": 31328,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe67ed": {
+    "type": "BOTH",
+    "global_cap": 2553,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe67ee": {
+    "type": "BOTH",
+    "global_cap": 62020,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe67ef": {
+    "type": "BOTH",
+    "global_cap": 36360,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe67f0": {
+    "type": "BOTH",
+    "global_cap": 9805,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe67f1": {
+    "type": "BOTH",
+    "global_cap": 88047,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe67f2": {
+    "type": "BOTH",
+    "global_cap": 10129,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe67f3": {
+    "type": "BOTH",
+    "global_cap": 7400,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe67f4": {
+    "type": "BOTH",
+    "global_cap": 71062,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe67f5": {
+    "type": "BOTH",
+    "global_cap": 41235,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe67f6": {
+    "type": "BOTH",
+    "global_cap": 45093,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe67f7": {
+    "type": "BOTH",
+    "global_cap": 75894,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe67f8": {
+    "type": "BOTH",
+    "global_cap": 82031,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe67f9": {
+    "type": "BOTH",
+    "global_cap": 4159,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe67fa": {
+    "type": "BOTH",
+    "global_cap": 92933,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe67fb": {
+    "type": "BOTH",
+    "global_cap": 96516,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe67fc": {
+    "type": "BOTH",
+    "global_cap": 33724,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe67fd": {
+    "type": "BOTH",
+    "global_cap": 84104,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe67fe": {
+    "type": "BOTH",
+    "global_cap": 80787,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe67ff": {
+    "type": "BOTH",
+    "global_cap": 22131,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6800": {
+    "type": "BOTH",
+    "global_cap": 7787,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6801": {
+    "type": "BOTH",
+    "global_cap": 79127,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6802": {
+    "type": "BOTH",
+    "global_cap": 79911,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6803": {
+    "type": "BOTH",
+    "global_cap": 63950,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6804": {
+    "type": "BOTH",
+    "global_cap": 15660,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6805": {
+    "type": "BOTH",
+    "global_cap": 33384,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6806": {
+    "type": "BOTH",
+    "global_cap": 73434,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6807": {
+    "type": "BOTH",
+    "global_cap": 60271,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6808": {
+    "type": "BOTH",
+    "global_cap": 3068,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6809": {
+    "type": "BOTH",
+    "global_cap": 11534,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe680a": {
+    "type": "BOTH",
+    "global_cap": 7779,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe680b": {
+    "type": "BOTH",
+    "global_cap": 81783,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe680c": {
+    "type": "BOTH",
+    "global_cap": 33141,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe680d": {
+    "type": "BOTH",
+    "global_cap": 49604,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe680e": {
+    "type": "BOTH",
+    "global_cap": 88196,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe680f": {
+    "type": "BOTH",
+    "global_cap": 12047,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6810": {
+    "type": "BOTH",
+    "global_cap": 36910,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6811": {
+    "type": "BOTH",
+    "global_cap": 14230,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6812": {
+    "type": "BOTH",
+    "global_cap": 94114,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6813": {
+    "type": "BOTH",
+    "global_cap": 59925,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6814": {
+    "type": "BOTH",
+    "global_cap": 87949,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6815": {
+    "type": "BOTH",
+    "global_cap": 67201,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6816": {
+    "type": "BOTH",
+    "global_cap": 23840,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6817": {
+    "type": "BOTH",
+    "global_cap": 47766,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6818": {
+    "type": "BOTH",
+    "global_cap": 57065,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6819": {
+    "type": "BOTH",
+    "global_cap": 21444,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe681a": {
+    "type": "BOTH",
+    "global_cap": 34142,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe681b": {
+    "type": "BOTH",
+    "global_cap": 93056,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe681c": {
+    "type": "BOTH",
+    "global_cap": 19498,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe681d": {
+    "type": "BOTH",
+    "global_cap": 18539,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe681e": {
+    "type": "BOTH",
+    "global_cap": 93692,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe681f": {
+    "type": "BOTH",
+    "global_cap": 94126,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6820": {
+    "type": "BOTH",
+    "global_cap": 28347,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6821": {
+    "type": "BOTH",
+    "global_cap": 40379,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6822": {
+    "type": "BOTH",
+    "global_cap": 13131,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6823": {
+    "type": "BOTH",
+    "global_cap": 82910,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6824": {
+    "type": "BOTH",
+    "global_cap": 27804,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6825": {
+    "type": "BOTH",
+    "global_cap": 23756,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6826": {
+    "type": "BOTH",
+    "global_cap": 44582,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6827": {
+    "type": "BOTH",
+    "global_cap": 77162,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6828": {
+    "type": "BOTH",
+    "global_cap": 20883,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6829": {
+    "type": "BOTH",
+    "global_cap": 13798,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe682a": {
+    "type": "BOTH",
+    "global_cap": 55117,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe682b": {
+    "type": "BOTH",
+    "global_cap": 74354,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe682c": {
+    "type": "BOTH",
+    "global_cap": 4953,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe682d": {
+    "type": "BOTH",
+    "global_cap": 27300,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe682e": {
+    "type": "BOTH",
+    "global_cap": 23360,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe682f": {
+    "type": "BOTH",
+    "global_cap": 12637,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6830": {
+    "type": "BOTH",
+    "global_cap": 82367,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6831": {
+    "type": "BOTH",
+    "global_cap": 50860,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6832": {
+    "type": "BOTH",
+    "global_cap": 58894,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6833": {
+    "type": "BOTH",
+    "global_cap": 25154,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6834": {
+    "type": "BOTH",
+    "global_cap": 3412,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6835": {
+    "type": "BOTH",
+    "global_cap": 74229,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6836": {
+    "type": "BOTH",
+    "global_cap": 24469,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6837": {
+    "type": "BOTH",
+    "global_cap": 15366,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6838": {
+    "type": "BOTH",
+    "global_cap": 48129,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6839": {
+    "type": "BOTH",
+    "global_cap": 6554,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe683a": {
+    "type": "BOTH",
+    "global_cap": 94726,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe683b": {
+    "type": "BOTH",
+    "global_cap": 21904,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe683c": {
+    "type": "BOTH",
+    "global_cap": 70707,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe683d": {
+    "type": "BOTH",
+    "global_cap": 6120,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe683e": {
+    "type": "BOTH",
+    "global_cap": 3578,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe683f": {
+    "type": "BOTH",
+    "global_cap": 94265,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6840": {
+    "type": "BOTH",
+    "global_cap": 56042,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6841": {
+    "type": "BOTH",
+    "global_cap": 89424,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6842": {
+    "type": "BOTH",
+    "global_cap": 50690,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6843": {
+    "type": "BOTH",
+    "global_cap": 67910,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6844": {
+    "type": "BOTH",
+    "global_cap": 21298,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6845": {
+    "type": "BOTH",
+    "global_cap": 46972,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6846": {
+    "type": "BOTH",
+    "global_cap": 23333,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6847": {
+    "type": "BOTH",
+    "global_cap": 65274,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6848": {
+    "type": "BOTH",
+    "global_cap": 7072,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6849": {
+    "type": "BOTH",
+    "global_cap": 23107,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe684a": {
+    "type": "BOTH",
+    "global_cap": 12114,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe684b": {
+    "type": "BOTH",
+    "global_cap": 18480,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe684c": {
+    "type": "BOTH",
+    "global_cap": 33493,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe684d": {
+    "type": "BOTH",
+    "global_cap": 80457,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe684e": {
+    "type": "BOTH",
+    "global_cap": 37724,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe684f": {
+    "type": "BOTH",
+    "global_cap": 55535,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6850": {
+    "type": "BOTH",
+    "global_cap": 19644,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6851": {
+    "type": "BOTH",
+    "global_cap": 47607,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6852": {
+    "type": "BOTH",
+    "global_cap": 10308,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6853": {
+    "type": "BOTH",
+    "global_cap": 46215,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6854": {
+    "type": "BOTH",
+    "global_cap": 88097,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6855": {
+    "type": "BOTH",
+    "global_cap": 13752,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6856": {
+    "type": "BOTH",
+    "global_cap": 8544,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6857": {
+    "type": "BOTH",
+    "global_cap": 38500,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6858": {
+    "type": "BOTH",
+    "global_cap": 40380,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6859": {
+    "type": "BOTH",
+    "global_cap": 71859,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe685a": {
+    "type": "BOTH",
+    "global_cap": 67320,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe685b": {
+    "type": "BOTH",
+    "global_cap": 28261,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe685c": {
+    "type": "BOTH",
+    "global_cap": 20375,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe685d": {
+    "type": "BOTH",
+    "global_cap": 49812,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe685e": {
+    "type": "BOTH",
+    "global_cap": 13629,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe685f": {
+    "type": "BOTH",
+    "global_cap": 89740,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6860": {
+    "type": "BOTH",
+    "global_cap": 58494,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6861": {
+    "type": "BOTH",
+    "global_cap": 1025,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6862": {
+    "type": "BOTH",
+    "global_cap": 58001,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6863": {
+    "type": "BOTH",
+    "global_cap": 79536,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6864": {
+    "type": "BOTH",
+    "global_cap": 50231,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6865": {
+    "type": "BOTH",
+    "global_cap": 4379,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6866": {
+    "type": "BOTH",
+    "global_cap": 22473,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6867": {
+    "type": "BOTH",
+    "global_cap": 39283,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6868": {
+    "type": "BOTH",
+    "global_cap": 9983,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6869": {
+    "type": "BOTH",
+    "global_cap": 92450,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe686a": {
+    "type": "BOTH",
+    "global_cap": 27095,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe686b": {
+    "type": "BOTH",
+    "global_cap": 66259,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe686c": {
+    "type": "BOTH",
+    "global_cap": 40626,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe686d": {
+    "type": "BOTH",
+    "global_cap": 33219,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe686e": {
+    "type": "BOTH",
+    "global_cap": 31802,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe686f": {
+    "type": "BOTH",
+    "global_cap": 67399,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6870": {
+    "type": "BOTH",
+    "global_cap": 57319,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6871": {
+    "type": "BOTH",
+    "global_cap": 16776,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6872": {
+    "type": "BOTH",
+    "global_cap": 4302,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6873": {
+    "type": "BOTH",
+    "global_cap": 46831,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6874": {
+    "type": "BOTH",
+    "global_cap": 16405,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6875": {
+    "type": "BOTH",
+    "global_cap": 19215,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6876": {
+    "type": "BOTH",
+    "global_cap": 76393,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6877": {
+    "type": "BOTH",
+    "global_cap": 91425,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6878": {
+    "type": "BOTH",
+    "global_cap": 49077,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6879": {
+    "type": "BOTH",
+    "global_cap": 98586,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe687a": {
+    "type": "BOTH",
+    "global_cap": 60962,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe687b": {
+    "type": "BOTH",
+    "global_cap": 70116,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe687c": {
+    "type": "BOTH",
+    "global_cap": 47184,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe687d": {
+    "type": "BOTH",
+    "global_cap": 63849,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe687e": {
+    "type": "BOTH",
+    "global_cap": 92037,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe687f": {
+    "type": "BOTH",
+    "global_cap": 32412,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6880": {
+    "type": "BOTH",
+    "global_cap": 15071,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6881": {
+    "type": "BOTH",
+    "global_cap": 79545,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6882": {
+    "type": "BOTH",
+    "global_cap": 85474,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6883": {
+    "type": "BOTH",
+    "global_cap": 96043,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6884": {
+    "type": "BOTH",
+    "global_cap": 28979,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6885": {
+    "type": "BOTH",
+    "global_cap": 81065,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6886": {
+    "type": "BOTH",
+    "global_cap": 9953,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6887": {
+    "type": "BOTH",
+    "global_cap": 1427,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6888": {
+    "type": "BOTH",
+    "global_cap": 35203,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6889": {
+    "type": "BOTH",
+    "global_cap": 33901,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe688a": {
+    "type": "BOTH",
+    "global_cap": 27451,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe688b": {
+    "type": "BOTH",
+    "global_cap": 72857,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe688c": {
+    "type": "BOTH",
+    "global_cap": 568,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe688d": {
+    "type": "BOTH",
+    "global_cap": 82745,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe688e": {
+    "type": "BOTH",
+    "global_cap": 54909,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe688f": {
+    "type": "BOTH",
+    "global_cap": 72708,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6890": {
+    "type": "BOTH",
+    "global_cap": 41482,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6891": {
+    "type": "BOTH",
+    "global_cap": 60508,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6892": {
+    "type": "BOTH",
+    "global_cap": 10877,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6893": {
+    "type": "BOTH",
+    "global_cap": 47416,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6894": {
+    "type": "BOTH",
+    "global_cap": 25551,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6895": {
+    "type": "BOTH",
+    "global_cap": 39545,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6896": {
+    "type": "BOTH",
+    "global_cap": 90662,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6897": {
+    "type": "BOTH",
+    "global_cap": 99684,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6898": {
+    "type": "BOTH",
+    "global_cap": 27992,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6899": {
+    "type": "BOTH",
+    "global_cap": 35221,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe689a": {
+    "type": "BOTH",
+    "global_cap": 83304,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe689b": {
+    "type": "BOTH",
+    "global_cap": 20663,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe689c": {
+    "type": "BOTH",
+    "global_cap": 11595,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe689d": {
+    "type": "BOTH",
+    "global_cap": 73185,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe689e": {
+    "type": "BOTH",
+    "global_cap": 65613,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe689f": {
+    "type": "BOTH",
+    "global_cap": 10960,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe68a0": {
+    "type": "BOTH",
+    "global_cap": 38465,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe68a1": {
+    "type": "BOTH",
+    "global_cap": 45554,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe68a2": {
+    "type": "BOTH",
+    "global_cap": 93603,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe68a3": {
+    "type": "BOTH",
+    "global_cap": 46157,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe68a4": {
+    "type": "BOTH",
+    "global_cap": 96400,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe68a5": {
+    "type": "BOTH",
+    "global_cap": 6129,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe68a6": {
+    "type": "BOTH",
+    "global_cap": 24660,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe68a7": {
+    "type": "BOTH",
+    "global_cap": 83874,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe68a8": {
+    "type": "BOTH",
+    "global_cap": 11516,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe68a9": {
+    "type": "BOTH",
+    "global_cap": 37936,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe68aa": {
+    "type": "BOTH",
+    "global_cap": 90984,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe68ab": {
+    "type": "BOTH",
+    "global_cap": 1564,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe68ac": {
+    "type": "BOTH",
+    "global_cap": 93426,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe68ad": {
+    "type": "BOTH",
+    "global_cap": 48029,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe68ae": {
+    "type": "BOTH",
+    "global_cap": 83515,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe68af": {
+    "type": "BOTH",
+    "global_cap": 45066,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe68b0": {
+    "type": "BOTH",
+    "global_cap": 16177,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe68b1": {
+    "type": "BOTH",
+    "global_cap": 1116,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe68b2": {
+    "type": "BOTH",
+    "global_cap": 70204,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe68b3": {
+    "type": "BOTH",
+    "global_cap": 98521,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe68b4": {
+    "type": "BOTH",
+    "global_cap": 4788,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe68b5": {
+    "type": "BOTH",
+    "global_cap": 86747,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe68b6": {
+    "type": "BOTH",
+    "global_cap": 10755,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe68b7": {
+    "type": "BOTH",
+    "global_cap": 11862,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe68b8": {
+    "type": "BOTH",
+    "global_cap": 77409,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe68b9": {
+    "type": "BOTH",
+    "global_cap": 61868,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe68ba": {
+    "type": "BOTH",
+    "global_cap": 43315,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe68bb": {
+    "type": "BOTH",
+    "global_cap": 54472,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe68bc": {
+    "type": "BOTH",
+    "global_cap": 50043,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe68bd": {
+    "type": "BOTH",
+    "global_cap": 94242,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe68be": {
+    "type": "BOTH",
+    "global_cap": 41858,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe68bf": {
+    "type": "BOTH",
+    "global_cap": 96689,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe68c0": {
+    "type": "BOTH",
+    "global_cap": 12604,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe68c1": {
+    "type": "BOTH",
+    "global_cap": 9840,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe68c2": {
+    "type": "BOTH",
+    "global_cap": 53837,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe68c3": {
+    "type": "BOTH",
+    "global_cap": 91565,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe68c4": {
+    "type": "BOTH",
+    "global_cap": 8480,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe68c5": {
+    "type": "BOTH",
+    "global_cap": 87075,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe68c6": {
+    "type": "BOTH",
+    "global_cap": 50223,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe68c7": {
+    "type": "BOTH",
+    "global_cap": 55449,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe68c8": {
+    "type": "BOTH",
+    "global_cap": 39239,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe68c9": {
+    "type": "BOTH",
+    "global_cap": 59267,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe68ca": {
+    "type": "BOTH",
+    "global_cap": 69113,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe68cb": {
+    "type": "BOTH",
+    "global_cap": 41885,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe68cc": {
+    "type": "BOTH",
+    "global_cap": 54545,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe68cd": {
+    "type": "BOTH",
+    "global_cap": 94532,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe68ce": {
+    "type": "BOTH",
+    "global_cap": 8126,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe68cf": {
+    "type": "BOTH",
+    "global_cap": 70626,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe68d0": {
+    "type": "BOTH",
+    "global_cap": 51165,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe68d1": {
+    "type": "BOTH",
+    "global_cap": 82939,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe68d2": {
+    "type": "BOTH",
+    "global_cap": 14475,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe68d3": {
+    "type": "BOTH",
+    "global_cap": 15087,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe68d4": {
+    "type": "BOTH",
+    "global_cap": 56350,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe68d5": {
+    "type": "BOTH",
+    "global_cap": 87300,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe68d6": {
+    "type": "BOTH",
+    "global_cap": 96280,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe68d7": {
+    "type": "BOTH",
+    "global_cap": 70643,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe68d8": {
+    "type": "BOTH",
+    "global_cap": 7234,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe68d9": {
+    "type": "BOTH",
+    "global_cap": 93668,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe68da": {
+    "type": "BOTH",
+    "global_cap": 6364,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe68db": {
+    "type": "BOTH",
+    "global_cap": 6891,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe68dc": {
+    "type": "BOTH",
+    "global_cap": 56237,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe68dd": {
+    "type": "BOTH",
+    "global_cap": 74816,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe68de": {
+    "type": "BOTH",
+    "global_cap": 74436,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe68df": {
+    "type": "BOTH",
+    "global_cap": 99827,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe68e0": {
+    "type": "BOTH",
+    "global_cap": 15193,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe68e1": {
+    "type": "BOTH",
+    "global_cap": 41236,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe68e2": {
+    "type": "BOTH",
+    "global_cap": 10339,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe68e3": {
+    "type": "BOTH",
+    "global_cap": 66724,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe68e4": {
+    "type": "BOTH",
+    "global_cap": 29830,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe68e5": {
+    "type": "BOTH",
+    "global_cap": 88104,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe68e6": {
+    "type": "BOTH",
+    "global_cap": 73058,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe68e7": {
+    "type": "BOTH",
+    "global_cap": 34471,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe68e8": {
+    "type": "BOTH",
+    "global_cap": 38952,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe68e9": {
+    "type": "BOTH",
+    "global_cap": 60880,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe68ea": {
+    "type": "BOTH",
+    "global_cap": 8723,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe68eb": {
+    "type": "BOTH",
+    "global_cap": 86551,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe68ec": {
+    "type": "BOTH",
+    "global_cap": 12081,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe68ed": {
+    "type": "BOTH",
+    "global_cap": 5920,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe68ee": {
+    "type": "BOTH",
+    "global_cap": 84688,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe68ef": {
+    "type": "BOTH",
+    "global_cap": 41628,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe68f0": {
+    "type": "BOTH",
+    "global_cap": 87371,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe68f1": {
+    "type": "BOTH",
+    "global_cap": 33272,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe68f2": {
+    "type": "BOTH",
+    "global_cap": 47240,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe68f3": {
+    "type": "BOTH",
+    "global_cap": 53590,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe68f4": {
+    "type": "BOTH",
+    "global_cap": 84775,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe68f5": {
+    "type": "BOTH",
+    "global_cap": 18978,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe68f6": {
+    "type": "BOTH",
+    "global_cap": 48570,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe68f7": {
+    "type": "BOTH",
+    "global_cap": 97421,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe68f8": {
+    "type": "BOTH",
+    "global_cap": 11965,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe68f9": {
+    "type": "BOTH",
+    "global_cap": 11253,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe68fa": {
+    "type": "BOTH",
+    "global_cap": 7291,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe68fb": {
+    "type": "BOTH",
+    "global_cap": 16039,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe68fc": {
+    "type": "BOTH",
+    "global_cap": 77198,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe68fd": {
+    "type": "BOTH",
+    "global_cap": 42517,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe68fe": {
+    "type": "BOTH",
+    "global_cap": 72645,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe68ff": {
+    "type": "BOTH",
+    "global_cap": 83245,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6900": {
+    "type": "BOTH",
+    "global_cap": 37150,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6901": {
+    "type": "BOTH",
+    "global_cap": 72884,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6902": {
+    "type": "BOTH",
+    "global_cap": 2832,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6903": {
+    "type": "BOTH",
+    "global_cap": 33096,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6904": {
+    "type": "BOTH",
+    "global_cap": 65925,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6905": {
+    "type": "BOTH",
+    "global_cap": 62711,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6906": {
+    "type": "BOTH",
+    "global_cap": 44558,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6907": {
+    "type": "BOTH",
+    "global_cap": 76831,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6908": {
+    "type": "BOTH",
+    "global_cap": 67932,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6909": {
+    "type": "BOTH",
+    "global_cap": 62715,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe690a": {
+    "type": "BOTH",
+    "global_cap": 98307,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe690b": {
+    "type": "BOTH",
+    "global_cap": 8637,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe690c": {
+    "type": "BOTH",
+    "global_cap": 9371,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe690d": {
+    "type": "BOTH",
+    "global_cap": 12460,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe690e": {
+    "type": "BOTH",
+    "global_cap": 1330,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe690f": {
+    "type": "BOTH",
+    "global_cap": 21690,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6910": {
+    "type": "BOTH",
+    "global_cap": 92281,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6911": {
+    "type": "BOTH",
+    "global_cap": 38013,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6912": {
+    "type": "BOTH",
+    "global_cap": 5025,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6913": {
+    "type": "BOTH",
+    "global_cap": 2576,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6914": {
+    "type": "BOTH",
+    "global_cap": 19302,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6915": {
+    "type": "BOTH",
+    "global_cap": 5181,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6916": {
+    "type": "BOTH",
+    "global_cap": 30751,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6917": {
+    "type": "BOTH",
+    "global_cap": 50809,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6918": {
+    "type": "BOTH",
+    "global_cap": 48204,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6919": {
+    "type": "BOTH",
+    "global_cap": 88814,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe691a": {
+    "type": "BOTH",
+    "global_cap": 41675,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe691b": {
+    "type": "BOTH",
+    "global_cap": 90851,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe691c": {
+    "type": "BOTH",
+    "global_cap": 98048,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe691d": {
+    "type": "BOTH",
+    "global_cap": 33627,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe691e": {
+    "type": "BOTH",
+    "global_cap": 26978,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe691f": {
+    "type": "BOTH",
+    "global_cap": 59028,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6920": {
+    "type": "BOTH",
+    "global_cap": 29761,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6921": {
+    "type": "BOTH",
+    "global_cap": 45435,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6922": {
+    "type": "BOTH",
+    "global_cap": 83384,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6923": {
+    "type": "BOTH",
+    "global_cap": 92159,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6924": {
+    "type": "BOTH",
+    "global_cap": 66174,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6925": {
+    "type": "BOTH",
+    "global_cap": 11270,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6926": {
+    "type": "BOTH",
+    "global_cap": 95013,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6927": {
+    "type": "BOTH",
+    "global_cap": 33956,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6928": {
+    "type": "BOTH",
+    "global_cap": 84458,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6929": {
+    "type": "BOTH",
+    "global_cap": 25319,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe692a": {
+    "type": "BOTH",
+    "global_cap": 12469,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe692b": {
+    "type": "BOTH",
+    "global_cap": 39240,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe692c": {
+    "type": "BOTH",
+    "global_cap": 90967,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe692d": {
+    "type": "BOTH",
+    "global_cap": 23321,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe692e": {
+    "type": "BOTH",
+    "global_cap": 8535,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe692f": {
+    "type": "BOTH",
+    "global_cap": 71921,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6930": {
+    "type": "BOTH",
+    "global_cap": 20905,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6931": {
+    "type": "BOTH",
+    "global_cap": 3914,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6932": {
+    "type": "BOTH",
+    "global_cap": 60872,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6933": {
+    "type": "BOTH",
+    "global_cap": 27020,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6934": {
+    "type": "BOTH",
+    "global_cap": 14538,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6935": {
+    "type": "BOTH",
+    "global_cap": 74081,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6936": {
+    "type": "BOTH",
+    "global_cap": 75615,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6937": {
+    "type": "BOTH",
+    "global_cap": 57319,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6938": {
+    "type": "BOTH",
+    "global_cap": 40091,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6939": {
+    "type": "BOTH",
+    "global_cap": 72415,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe693a": {
+    "type": "BOTH",
+    "global_cap": 81521,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe693b": {
+    "type": "BOTH",
+    "global_cap": 13620,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe693c": {
+    "type": "BOTH",
+    "global_cap": 98092,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe693d": {
+    "type": "BOTH",
+    "global_cap": 93388,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe693e": {
+    "type": "BOTH",
+    "global_cap": 18541,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe693f": {
+    "type": "BOTH",
+    "global_cap": 85737,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6940": {
+    "type": "BOTH",
+    "global_cap": 90587,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6941": {
+    "type": "BOTH",
+    "global_cap": 32504,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6942": {
+    "type": "BOTH",
+    "global_cap": 46435,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6943": {
+    "type": "BOTH",
+    "global_cap": 18956,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6944": {
+    "type": "BOTH",
+    "global_cap": 90621,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6945": {
+    "type": "BOTH",
+    "global_cap": 42759,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6946": {
+    "type": "BOTH",
+    "global_cap": 87390,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6947": {
+    "type": "BOTH",
+    "global_cap": 78142,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6948": {
+    "type": "BOTH",
+    "global_cap": 20576,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6949": {
+    "type": "BOTH",
+    "global_cap": 49322,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe694a": {
+    "type": "BOTH",
+    "global_cap": 65978,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe694b": {
+    "type": "BOTH",
+    "global_cap": 33337,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe694c": {
+    "type": "BOTH",
+    "global_cap": 51609,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe694d": {
+    "type": "BOTH",
+    "global_cap": 15353,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe694e": {
+    "type": "BOTH",
+    "global_cap": 93696,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe694f": {
+    "type": "BOTH",
+    "global_cap": 1728,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6950": {
+    "type": "BOTH",
+    "global_cap": 48437,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6951": {
+    "type": "BOTH",
+    "global_cap": 36590,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6952": {
+    "type": "BOTH",
+    "global_cap": 80175,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6953": {
+    "type": "BOTH",
+    "global_cap": 54596,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6954": {
+    "type": "BOTH",
+    "global_cap": 21521,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6955": {
+    "type": "BOTH",
+    "global_cap": 11125,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6956": {
+    "type": "BOTH",
+    "global_cap": 35056,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6957": {
+    "type": "BOTH",
+    "global_cap": 72585,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6958": {
+    "type": "BOTH",
+    "global_cap": 95150,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6959": {
+    "type": "BOTH",
+    "global_cap": 31446,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe695a": {
+    "type": "BOTH",
+    "global_cap": 9971,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe695b": {
+    "type": "BOTH",
+    "global_cap": 97116,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe695c": {
+    "type": "BOTH",
+    "global_cap": 85778,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe695d": {
+    "type": "BOTH",
+    "global_cap": 1068,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe695e": {
+    "type": "BOTH",
+    "global_cap": 91038,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe695f": {
+    "type": "BOTH",
+    "global_cap": 23277,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6960": {
+    "type": "BOTH",
+    "global_cap": 75801,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6961": {
+    "type": "BOTH",
+    "global_cap": 70437,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6962": {
+    "type": "BOTH",
+    "global_cap": 33588,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6963": {
+    "type": "BOTH",
+    "global_cap": 11439,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6964": {
+    "type": "BOTH",
+    "global_cap": 82319,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6965": {
+    "type": "BOTH",
+    "global_cap": 28786,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6966": {
+    "type": "BOTH",
+    "global_cap": 6867,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6967": {
+    "type": "BOTH",
+    "global_cap": 76164,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6968": {
+    "type": "BOTH",
+    "global_cap": 76232,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6969": {
+    "type": "BOTH",
+    "global_cap": 12030,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe696a": {
+    "type": "BOTH",
+    "global_cap": 14894,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe696b": {
+    "type": "BOTH",
+    "global_cap": 51819,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe696c": {
+    "type": "BOTH",
+    "global_cap": 19240,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe696d": {
+    "type": "BOTH",
+    "global_cap": 66176,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe696e": {
+    "type": "BOTH",
+    "global_cap": 86394,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe696f": {
+    "type": "BOTH",
+    "global_cap": 34104,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6970": {
+    "type": "BOTH",
+    "global_cap": 74870,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6971": {
+    "type": "BOTH",
+    "global_cap": 47465,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6972": {
+    "type": "BOTH",
+    "global_cap": 87376,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6973": {
+    "type": "BOTH",
+    "global_cap": 44229,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6974": {
+    "type": "BOTH",
+    "global_cap": 65272,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6975": {
+    "type": "BOTH",
+    "global_cap": 97977,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6976": {
+    "type": "BOTH",
+    "global_cap": 39221,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6977": {
+    "type": "BOTH",
+    "global_cap": 90807,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6978": {
+    "type": "BOTH",
+    "global_cap": 23591,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6979": {
+    "type": "BOTH",
+    "global_cap": 4512,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe697a": {
+    "type": "BOTH",
+    "global_cap": 4446,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe697b": {
+    "type": "BOTH",
+    "global_cap": 48491,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe697c": {
+    "type": "BOTH",
+    "global_cap": 22353,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe697d": {
+    "type": "BOTH",
+    "global_cap": 81313,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe697e": {
+    "type": "BOTH",
+    "global_cap": 34475,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe697f": {
+    "type": "BOTH",
+    "global_cap": 37212,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6980": {
+    "type": "BOTH",
+    "global_cap": 85102,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6981": {
+    "type": "BOTH",
+    "global_cap": 37758,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6982": {
+    "type": "BOTH",
+    "global_cap": 84682,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6983": {
+    "type": "BOTH",
+    "global_cap": 13912,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6984": {
+    "type": "BOTH",
+    "global_cap": 1623,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6985": {
+    "type": "BOTH",
+    "global_cap": 32660,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6986": {
+    "type": "BOTH",
+    "global_cap": 89694,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6987": {
+    "type": "BOTH",
+    "global_cap": 50075,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6988": {
+    "type": "BOTH",
+    "global_cap": 34919,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6989": {
+    "type": "BOTH",
+    "global_cap": 34785,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe698a": {
+    "type": "BOTH",
+    "global_cap": 11500,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe698b": {
+    "type": "BOTH",
+    "global_cap": 63928,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe698c": {
+    "type": "BOTH",
+    "global_cap": 5802,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe698d": {
+    "type": "BOTH",
+    "global_cap": 36410,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe698e": {
+    "type": "BOTH",
+    "global_cap": 77627,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe698f": {
+    "type": "BOTH",
+    "global_cap": 17244,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6990": {
+    "type": "BOTH",
+    "global_cap": 53880,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6991": {
+    "type": "BOTH",
+    "global_cap": 51313,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6992": {
+    "type": "BOTH",
+    "global_cap": 29815,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6993": {
+    "type": "BOTH",
+    "global_cap": 11057,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6994": {
+    "type": "BOTH",
+    "global_cap": 20662,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6995": {
+    "type": "BOTH",
+    "global_cap": 27963,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6996": {
+    "type": "BOTH",
+    "global_cap": 7845,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6997": {
+    "type": "BOTH",
+    "global_cap": 82399,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6998": {
+    "type": "BOTH",
+    "global_cap": 41877,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6999": {
+    "type": "BOTH",
+    "global_cap": 68372,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe699a": {
+    "type": "BOTH",
+    "global_cap": 3170,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe699b": {
+    "type": "BOTH",
+    "global_cap": 27027,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe699c": {
+    "type": "BOTH",
+    "global_cap": 68562,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe699d": {
+    "type": "BOTH",
+    "global_cap": 57167,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe699e": {
+    "type": "BOTH",
+    "global_cap": 78846,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe699f": {
+    "type": "BOTH",
+    "global_cap": 98013,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe69a0": {
+    "type": "BOTH",
+    "global_cap": 8934,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe69a1": {
+    "type": "BOTH",
+    "global_cap": 64133,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe69a2": {
+    "type": "BOTH",
+    "global_cap": 97192,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe69a3": {
+    "type": "BOTH",
+    "global_cap": 99315,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe69a4": {
+    "type": "BOTH",
+    "global_cap": 43035,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe69a5": {
+    "type": "BOTH",
+    "global_cap": 528,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe69a6": {
+    "type": "BOTH",
+    "global_cap": 52962,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe69a7": {
+    "type": "BOTH",
+    "global_cap": 79870,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe69a8": {
+    "type": "BOTH",
+    "global_cap": 22267,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe69a9": {
     "type": "BOTH",
     "global_cap": 62864,
-    "user_cap": 8
-  },
-  "68496d36a475c597a905980e": {
-    "type": "BOTH",
-    "global_cap": 40496,
-    "user_cap": 4
-  },
-  "68496d36a475c597a905980f": {
-    "type": "BOTH",
-    "global_cap": 9674,
     "user_cap": 2
   },
-  "68496d36a475c597a9059810": {
+  "6851398f442ff27192fe69aa": {
     "type": "BOTH",
-    "global_cap": 97526,
-    "user_cap": 6
+    "global_cap": 81038,
+    "user_cap": 7
   },
-  "68496d36a475c597a9059811": {
+  "6851398f442ff27192fe69ab": {
     "type": "BOTH",
-    "global_cap": 92286,
-    "user_cap": 2
+    "global_cap": 51503,
+    "user_cap": 7
   },
-  "68496d36a475c597a9059812": {
+  "6851398f442ff27192fe69ac": {
     "type": "BOTH",
-    "global_cap": 36437,
-    "user_cap": 2
-  },
-  "68496d36a475c597a9059813": {
-    "type": "BOTH",
-    "global_cap": 55933,
-    "user_cap": 4
-  },
-  "68496d36a475c597a9059814": {
-    "type": "BOTH",
-    "global_cap": 43361,
-    "user_cap": 9
-  },
-  "68496d36a475c597a9059815": {
-    "type": "BOTH",
-    "global_cap": 72112,
-    "user_cap": 10
-  },
-  "68496d36a475c597a9059816": {
-    "type": "BOTH",
-    "global_cap": 28125,
-    "user_cap": 8
-  },
-  "68496d36a475c597a9059817": {
-    "type": "BOTH",
-    "global_cap": 23426,
+    "global_cap": 95936,
     "user_cap": 1
   },
-  "68496d36a475c597a9059818": {
+  "6851398f442ff27192fe69ad": {
     "type": "BOTH",
-    "global_cap": 28123,
-    "user_cap": 7
-  },
-  "68496d36a475c597a9059819": {
-    "type": "BOTH",
-    "global_cap": 25914,
-    "user_cap": 1
-  },
-  "68496d36a475c597a905981a": {
-    "type": "BOTH",
-    "global_cap": 57502,
-    "user_cap": 10
-  },
-  "68496d36a475c597a905981b": {
-    "type": "BOTH",
-    "global_cap": 42648,
-    "user_cap": 7
-  },
-  "68496d36a475c597a905981c": {
-    "type": "BOTH",
-    "global_cap": 81743,
+    "global_cap": 8821,
     "user_cap": 9
   },
-  "68496d36a475c597a905981d": {
+  "6851398f442ff27192fe69ae": {
     "type": "BOTH",
-    "global_cap": 32540,
+    "global_cap": 97097,
     "user_cap": 10
   },
-  "68496d36a475c597a905981e": {
+  "6851398f442ff27192fe69af": {
     "type": "BOTH",
-    "global_cap": 89973,
-    "user_cap": 2
-  },
-  "68496d36a475c597a905981f": {
-    "type": "BOTH",
-    "global_cap": 87996,
-    "user_cap": 2
-  },
-  "68496d36a475c597a9059820": {
-    "type": "BOTH",
-    "global_cap": 32429,
-    "user_cap": 2
-  },
-  "68496d36a475c597a9059821": {
-    "type": "BOTH",
-    "global_cap": 1022,
-    "user_cap": 7
-  },
-  "68496d36a475c597a9059822": {
-    "type": "BOTH",
-    "global_cap": 3147,
-    "user_cap": 4
-  },
-  "68496d36a475c597a9059823": {
-    "type": "BOTH",
-    "global_cap": 28334,
-    "user_cap": 2
-  },
-  "68496d36a475c597a9059824": {
-    "type": "BOTH",
-    "global_cap": 74658,
-    "user_cap": 10
-  },
-  "68496d36a475c597a9059825": {
-    "type": "BOTH",
-    "global_cap": 85610,
-    "user_cap": 5
-  },
-  "68496d36a475c597a9059826": {
-    "type": "BOTH",
-    "global_cap": 10318,
-    "user_cap": 6
-  },
-  "68496d36a475c597a9059827": {
-    "type": "BOTH",
-    "global_cap": 96364,
-    "user_cap": 7
-  },
-  "68496d36a475c597a9059828": {
-    "type": "BOTH",
-    "global_cap": 18442,
-    "user_cap": 6
-  },
-  "68496d36a475c597a9059829": {
-    "type": "BOTH",
-    "global_cap": 98582,
-    "user_cap": 7
-  },
-  "68496d36a475c597a905982a": {
-    "type": "BOTH",
-    "global_cap": 83195,
+    "global_cap": 60809,
     "user_cap": 8
   },
-  "68496d36a475c597a905982b": {
+  "6851398f442ff27192fe69b0": {
     "type": "BOTH",
-    "global_cap": 35000,
-    "user_cap": 1
-  },
-  "68496d36a475c597a905982c": {
-    "type": "BOTH",
-    "global_cap": 45677,
-    "user_cap": 9
-  },
-  "68496d36a475c597a905982d": {
-    "type": "BOTH",
-    "global_cap": 79698,
+    "global_cap": 42864,
     "user_cap": 7
   },
-  "68496d36a475c597a905982e": {
+  "6851398f442ff27192fe69b1": {
     "type": "BOTH",
-    "global_cap": 15779,
-    "user_cap": 2
-  },
-  "68496d36a475c597a905982f": {
-    "type": "BOTH",
-    "global_cap": 26844,
-    "user_cap": 9
-  },
-  "68496d36a475c597a9059830": {
-    "type": "BOTH",
-    "global_cap": 37978,
-    "user_cap": 2
-  },
-  "68496d36a475c597a9059831": {
-    "type": "BOTH",
-    "global_cap": 62552,
-    "user_cap": 5
-  },
-  "68496d36a475c597a9059832": {
-    "type": "BOTH",
-    "global_cap": 25518,
-    "user_cap": 9
-  },
-  "68496d36a475c597a9059833": {
-    "type": "BOTH",
-    "global_cap": 74082,
+    "global_cap": 22990,
     "user_cap": 8
   },
-  "68496d36a475c597a9059834": {
+  "6851398f442ff27192fe69b2": {
     "type": "BOTH",
-    "global_cap": 9435,
-    "user_cap": 1
+    "global_cap": 17340,
+    "user_cap": 2
   },
-  "68496d36a475c597a9059835": {
+  "6851398f442ff27192fe69b3": {
     "type": "BOTH",
-    "global_cap": 11037,
+    "global_cap": 40379,
     "user_cap": 6
   },
-  "68496d36a475c597a9059836": {
+  "6851398f442ff27192fe69b4": {
     "type": "BOTH",
-    "global_cap": 62144,
-    "user_cap": 9
-  },
-  "68496d36a475c597a9059837": {
-    "type": "BOTH",
-    "global_cap": 5807,
-    "user_cap": 10
-  },
-  "68496d36a475c597a9059838": {
-    "type": "BOTH",
-    "global_cap": 14236,
-    "user_cap": 2
-  },
-  "68496d36a475c597a9059839": {
-    "type": "BOTH",
-    "global_cap": 66920,
+    "global_cap": 3759,
     "user_cap": 7
   },
-  "68496d36a475c597a905983a": {
+  "6851398f442ff27192fe69b5": {
     "type": "BOTH",
-    "global_cap": 25045,
-    "user_cap": 5
-  },
-  "68496d36a475c597a905983b": {
-    "type": "BOTH",
-    "global_cap": 62161,
-    "user_cap": 4
-  },
-  "68496d36a475c597a905983c": {
-    "type": "BOTH",
-    "global_cap": 20671,
+    "global_cap": 11696,
     "user_cap": 2
   },
-  "68496d36a475c597a905983d": {
+  "6851398f442ff27192fe69b6": {
     "type": "BOTH",
-    "global_cap": 96542,
+    "global_cap": 26186,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe69b7": {
+    "type": "BOTH",
+    "global_cap": 10383,
     "user_cap": 5
   },
-  "68496d36a475c597a905983e": {
+  "6851398f442ff27192fe69b8": {
     "type": "BOTH",
-    "global_cap": 33473,
-    "user_cap": 9
-  },
-  "68496d36a475c597a905983f": {
-    "type": "BOTH",
-    "global_cap": 36148,
-    "user_cap": 4
-  },
-  "68496d36a475c597a9059840": {
-    "type": "BOTH",
-    "global_cap": 83274,
+    "global_cap": 90635,
     "user_cap": 3
   },
-  "68496d36a475c597a9059841": {
+  "6851398f442ff27192fe69b9": {
     "type": "BOTH",
-    "global_cap": 80602,
-    "user_cap": 2
-  },
-  "68496d36a475c597a9059842": {
-    "type": "BOTH",
-    "global_cap": 81738,
+    "global_cap": 66449,
     "user_cap": 5
   },
-  "68496d36a475c597a9059843": {
+  "6851398f442ff27192fe69ba": {
     "type": "BOTH",
-    "global_cap": 13412,
-    "user_cap": 10
+    "global_cap": 5580,
+    "user_cap": 2
   },
-  "68496d36a475c597a9059844": {
+  "6851398f442ff27192fe69bb": {
     "type": "BOTH",
-    "global_cap": 10832,
-    "user_cap": 8
-  },
-  "68496d36a475c597a9059845": {
-    "type": "BOTH",
-    "global_cap": 54078,
-    "user_cap": 9
-  },
-  "68496d36a475c597a9059846": {
-    "type": "BOTH",
-    "global_cap": 28063,
-    "user_cap": 8
-  },
-  "68496d36a475c597a9059847": {
-    "type": "BOTH",
-    "global_cap": 31765,
+    "global_cap": 2723,
     "user_cap": 7
   },
-  "68496d36a475c597a9059848": {
+  "6851398f442ff27192fe69bc": {
     "type": "BOTH",
-    "global_cap": 65783,
-    "user_cap": 1
-  },
-  "68496d36a475c597a9059849": {
-    "type": "BOTH",
-    "global_cap": 42672,
-    "user_cap": 9
-  },
-  "68496d36a475c597a905984a": {
-    "type": "BOTH",
-    "global_cap": 2812,
-    "user_cap": 4
-  },
-  "68496d36a475c597a905984b": {
-    "type": "BOTH",
-    "global_cap": 22307,
+    "global_cap": 72457,
     "user_cap": 6
   },
-  "68496d36a475c597a905984c": {
+  "6851398f442ff27192fe69bd": {
     "type": "BOTH",
-    "global_cap": 68860,
+    "global_cap": 75190,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe69be": {
+    "type": "BOTH",
+    "global_cap": 89156,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe69bf": {
+    "type": "BOTH",
+    "global_cap": 5589,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe69c0": {
+    "type": "BOTH",
+    "global_cap": 8565,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe69c1": {
+    "type": "BOTH",
+    "global_cap": 11473,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe69c2": {
+    "type": "BOTH",
+    "global_cap": 92717,
     "user_cap": 10
   },
-  "68496d36a475c597a905984d": {
+  "6851398f442ff27192fe69c3": {
     "type": "BOTH",
-    "global_cap": 25960,
-    "user_cap": 10
+    "global_cap": 76205,
+    "user_cap": 5
   },
-  "68496d36a475c597a905984e": {
+  "6851398f442ff27192fe69c4": {
     "type": "BOTH",
-    "global_cap": 25188,
+    "global_cap": 68541,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe69c5": {
+    "type": "BOTH",
+    "global_cap": 23158,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe69c6": {
+    "type": "BOTH",
+    "global_cap": 24382,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe69c7": {
+    "type": "BOTH",
+    "global_cap": 11741,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe69c8": {
+    "type": "BOTH",
+    "global_cap": 47282,
     "user_cap": 2
   },
-  "68496d36a475c597a905984f": {
+  "6851398f442ff27192fe69c9": {
     "type": "BOTH",
-    "global_cap": 45863,
-    "user_cap": 5
-  },
-  "68496d36a475c597a9059850": {
-    "type": "BOTH",
-    "global_cap": 65140,
-    "user_cap": 9
-  },
-  "68496d36a475c597a9059851": {
-    "type": "BOTH",
-    "global_cap": 49147,
-    "user_cap": 7
-  },
-  "68496d36a475c597a9059852": {
-    "type": "BOTH",
-    "global_cap": 37885,
-    "user_cap": 9
-  },
-  "68496d36a475c597a9059853": {
-    "type": "BOTH",
-    "global_cap": 54925,
-    "user_cap": 1
-  },
-  "68496d36a475c597a9059854": {
-    "type": "BOTH",
-    "global_cap": 11205,
-    "user_cap": 1
-  },
-  "68496d36a475c597a9059855": {
-    "type": "BOTH",
-    "global_cap": 37594,
-    "user_cap": 10
-  },
-  "68496d36a475c597a9059856": {
-    "type": "BOTH",
-    "global_cap": 20046,
-    "user_cap": 5
-  },
-  "68496d36a475c597a9059857": {
-    "type": "BOTH",
-    "global_cap": 50981,
-    "user_cap": 4
-  },
-  "68496d36a475c597a9059858": {
-    "type": "BOTH",
-    "global_cap": 72190,
-    "user_cap": 7
-  },
-  "68496d36a475c597a9059859": {
-    "type": "BOTH",
-    "global_cap": 62824,
-    "user_cap": 1
-  },
-  "68496d36a475c597a905985a": {
-    "type": "BOTH",
-    "global_cap": 21340,
+    "global_cap": 32736,
     "user_cap": 3
   },
-  "68496d36a475c597a905985b": {
+  "6851398f442ff27192fe69ca": {
     "type": "BOTH",
-    "global_cap": 37540,
+    "global_cap": 19393,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe69cb": {
+    "type": "BOTH",
+    "global_cap": 97363,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe69cc": {
+    "type": "BOTH",
+    "global_cap": 52668,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe69cd": {
+    "type": "BOTH",
+    "global_cap": 8161,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe69ce": {
+    "type": "BOTH",
+    "global_cap": 6147,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe69cf": {
+    "type": "BOTH",
+    "global_cap": 36488,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe69d0": {
+    "type": "BOTH",
+    "global_cap": 88066,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe69d1": {
+    "type": "BOTH",
+    "global_cap": 57610,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe69d2": {
+    "type": "BOTH",
+    "global_cap": 94943,
     "user_cap": 1
   },
-  "68496d36a475c597a905985c": {
+  "6851398f442ff27192fe69d3": {
     "type": "BOTH",
-    "global_cap": 29298,
+    "global_cap": 11250,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe69d4": {
+    "type": "BOTH",
+    "global_cap": 36415,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe69d5": {
+    "type": "BOTH",
+    "global_cap": 28405,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe69d6": {
+    "type": "BOTH",
+    "global_cap": 50156,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe69d7": {
+    "type": "BOTH",
+    "global_cap": 71403,
     "user_cap": 4
   },
-  "68496d36a475c597a905985d": {
+  "6851398f442ff27192fe69d8": {
     "type": "BOTH",
-    "global_cap": 77250,
+    "global_cap": 81692,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe69d9": {
+    "type": "BOTH",
+    "global_cap": 27324,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe69da": {
+    "type": "BOTH",
+    "global_cap": 83043,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe69db": {
+    "type": "BOTH",
+    "global_cap": 37312,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe69dc": {
+    "type": "BOTH",
+    "global_cap": 19425,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe69dd": {
+    "type": "BOTH",
+    "global_cap": 56786,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe69de": {
+    "type": "BOTH",
+    "global_cap": 17545,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe69df": {
+    "type": "BOTH",
+    "global_cap": 27119,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe69e0": {
+    "type": "BOTH",
+    "global_cap": 43501,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe69e1": {
+    "type": "BOTH",
+    "global_cap": 46498,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe69e2": {
+    "type": "BOTH",
+    "global_cap": 4302,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe69e3": {
+    "type": "BOTH",
+    "global_cap": 93568,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe69e4": {
+    "type": "BOTH",
+    "global_cap": 69219,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe69e5": {
+    "type": "BOTH",
+    "global_cap": 47087,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe69e6": {
+    "type": "BOTH",
+    "global_cap": 12993,
     "user_cap": 8
   },
-  "68496d36a475c597a905985e": {
+  "6851398f442ff27192fe69e7": {
     "type": "BOTH",
-    "global_cap": 49026,
+    "global_cap": 74417,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe69e8": {
+    "type": "BOTH",
+    "global_cap": 40296,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe69e9": {
+    "type": "BOTH",
+    "global_cap": 15133,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe69ea": {
+    "type": "BOTH",
+    "global_cap": 12950,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe69eb": {
+    "type": "BOTH",
+    "global_cap": 45424,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe69ec": {
+    "type": "BOTH",
+    "global_cap": 50252,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe69ed": {
+    "type": "BOTH",
+    "global_cap": 30194,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe69ee": {
+    "type": "BOTH",
+    "global_cap": 26548,
     "user_cap": 4
   },
-  "68496d36a475c597a905985f": {
+  "6851398f442ff27192fe69ef": {
     "type": "BOTH",
-    "global_cap": 56953,
+    "global_cap": 40775,
     "user_cap": 5
   },
-  "68496d36a475c597a9059860": {
+  "6851398f442ff27192fe69f0": {
     "type": "BOTH",
-    "global_cap": 72257,
-    "user_cap": 5
+    "global_cap": 7214,
+    "user_cap": 3
   },
-  "68496d36a475c597a9059861": {
+  "6851398f442ff27192fe69f1": {
     "type": "BOTH",
-    "global_cap": 5768,
-    "user_cap": 7
+    "global_cap": 52389,
+    "user_cap": 8
   },
-  "68496d36a475c597a9059862": {
+  "6851398f442ff27192fe69f2": {
     "type": "BOTH",
-    "global_cap": 86944,
-    "user_cap": 7
+    "global_cap": 61660,
+    "user_cap": 8
   },
-  "68496d36a475c597a9059863": {
+  "6851398f442ff27192fe69f3": {
     "type": "BOTH",
-    "global_cap": 82436,
-    "user_cap": 5
+    "global_cap": 57068,
+    "user_cap": 10
   },
-  "68496d36a475c597a9059864": {
+  "6851398f442ff27192fe69f4": {
     "type": "BOTH",
-    "global_cap": 66823,
-    "user_cap": 5
+    "global_cap": 37066,
+    "user_cap": 9
   },
-  "68496d36a475c597a9059865": {
+  "6851398f442ff27192fe69f5": {
     "type": "BOTH",
-    "global_cap": 78724,
-    "user_cap": 7
-  },
-  "68496d36a475c597a9059866": {
-    "type": "BOTH",
-    "global_cap": 3969,
+    "global_cap": 21165,
     "user_cap": 4
   },
-  "68496d36a475c597a9059867": {
+  "6851398f442ff27192fe69f6": {
     "type": "BOTH",
-    "global_cap": 80256,
+    "global_cap": 4636,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe69f7": {
+    "type": "BOTH",
+    "global_cap": 49955,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe69f8": {
+    "type": "BOTH",
+    "global_cap": 85975,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe69f9": {
+    "type": "BOTH",
+    "global_cap": 63962,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe69fa": {
+    "type": "BOTH",
+    "global_cap": 11822,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe69fb": {
+    "type": "BOTH",
+    "global_cap": 46324,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe69fc": {
+    "type": "BOTH",
+    "global_cap": 77128,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe69fd": {
+    "type": "BOTH",
+    "global_cap": 83947,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe69fe": {
+    "type": "BOTH",
+    "global_cap": 79158,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe69ff": {
+    "type": "BOTH",
+    "global_cap": 2529,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a00": {
+    "type": "BOTH",
+    "global_cap": 40745,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6a01": {
+    "type": "BOTH",
+    "global_cap": 55450,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a02": {
+    "type": "BOTH",
+    "global_cap": 8008,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a03": {
+    "type": "BOTH",
+    "global_cap": 95560,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6a04": {
+    "type": "BOTH",
+    "global_cap": 19101,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6a05": {
+    "type": "BOTH",
+    "global_cap": 43924,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a06": {
+    "type": "BOTH",
+    "global_cap": 68629,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6a07": {
+    "type": "BOTH",
+    "global_cap": 8754,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6a08": {
+    "type": "BOTH",
+    "global_cap": 11460,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6a09": {
+    "type": "BOTH",
+    "global_cap": 27539,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a0a": {
+    "type": "BOTH",
+    "global_cap": 42964,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6a0b": {
+    "type": "BOTH",
+    "global_cap": 3709,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6a0c": {
+    "type": "BOTH",
+    "global_cap": 71920,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6a0d": {
+    "type": "BOTH",
+    "global_cap": 65371,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6a0e": {
+    "type": "BOTH",
+    "global_cap": 32423,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6a0f": {
+    "type": "BOTH",
+    "global_cap": 13670,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6a10": {
+    "type": "BOTH",
+    "global_cap": 40575,
     "user_cap": 7
   },
-  "68496d36a475c597a9059868": {
+  "6851398f442ff27192fe6a11": {
     "type": "BOTH",
-    "global_cap": 86891,
+    "global_cap": 49210,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6a12": {
+    "type": "BOTH",
+    "global_cap": 29541,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a13": {
+    "type": "BOTH",
+    "global_cap": 68899,
     "user_cap": 4
+  },
+  "6851398f442ff27192fe6a14": {
+    "type": "BOTH",
+    "global_cap": 56820,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6a15": {
+    "type": "BOTH",
+    "global_cap": 69684,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6a16": {
+    "type": "BOTH",
+    "global_cap": 91631,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6a17": {
+    "type": "BOTH",
+    "global_cap": 90567,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6a18": {
+    "type": "BOTH",
+    "global_cap": 43883,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a19": {
+    "type": "BOTH",
+    "global_cap": 11396,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a1a": {
+    "type": "BOTH",
+    "global_cap": 8785,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6a1b": {
+    "type": "BOTH",
+    "global_cap": 88083,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6a1c": {
+    "type": "BOTH",
+    "global_cap": 46165,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a1d": {
+    "type": "BOTH",
+    "global_cap": 93568,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a1e": {
+    "type": "BOTH",
+    "global_cap": 35308,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6a1f": {
+    "type": "BOTH",
+    "global_cap": 57493,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a20": {
+    "type": "BOTH",
+    "global_cap": 21607,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6a21": {
+    "type": "BOTH",
+    "global_cap": 15742,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6a22": {
+    "type": "BOTH",
+    "global_cap": 9537,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a23": {
+    "type": "BOTH",
+    "global_cap": 94827,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a24": {
+    "type": "BOTH",
+    "global_cap": 58290,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6a25": {
+    "type": "BOTH",
+    "global_cap": 13876,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6a26": {
+    "type": "BOTH",
+    "global_cap": 17865,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6a27": {
+    "type": "BOTH",
+    "global_cap": 84910,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6a28": {
+    "type": "BOTH",
+    "global_cap": 33232,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a29": {
+    "type": "BOTH",
+    "global_cap": 91862,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6a2a": {
+    "type": "BOTH",
+    "global_cap": 62642,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a2b": {
+    "type": "BOTH",
+    "global_cap": 27219,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6a2c": {
+    "type": "BOTH",
+    "global_cap": 60919,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a2d": {
+    "type": "BOTH",
+    "global_cap": 41216,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6a2e": {
+    "type": "BOTH",
+    "global_cap": 36276,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6a2f": {
+    "type": "BOTH",
+    "global_cap": 60223,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a30": {
+    "type": "BOTH",
+    "global_cap": 99103,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6a31": {
+    "type": "BOTH",
+    "global_cap": 5499,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a32": {
+    "type": "BOTH",
+    "global_cap": 9261,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6a33": {
+    "type": "BOTH",
+    "global_cap": 79212,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6a34": {
+    "type": "BOTH",
+    "global_cap": 59248,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a35": {
+    "type": "BOTH",
+    "global_cap": 21327,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a36": {
+    "type": "BOTH",
+    "global_cap": 47409,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a37": {
+    "type": "BOTH",
+    "global_cap": 57728,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6a38": {
+    "type": "BOTH",
+    "global_cap": 63095,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6a39": {
+    "type": "BOTH",
+    "global_cap": 18995,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a3a": {
+    "type": "BOTH",
+    "global_cap": 44583,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6a3b": {
+    "type": "BOTH",
+    "global_cap": 61015,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a3c": {
+    "type": "BOTH",
+    "global_cap": 20037,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6a3d": {
+    "type": "BOTH",
+    "global_cap": 67380,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a3e": {
+    "type": "BOTH",
+    "global_cap": 61855,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a3f": {
+    "type": "BOTH",
+    "global_cap": 74028,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6a40": {
+    "type": "BOTH",
+    "global_cap": 2416,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a41": {
+    "type": "BOTH",
+    "global_cap": 68954,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a42": {
+    "type": "BOTH",
+    "global_cap": 17998,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6a43": {
+    "type": "BOTH",
+    "global_cap": 96634,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a44": {
+    "type": "BOTH",
+    "global_cap": 69294,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a45": {
+    "type": "BOTH",
+    "global_cap": 18450,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6a46": {
+    "type": "BOTH",
+    "global_cap": 73291,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6a47": {
+    "type": "BOTH",
+    "global_cap": 75154,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6a48": {
+    "type": "BOTH",
+    "global_cap": 32866,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a49": {
+    "type": "BOTH",
+    "global_cap": 61183,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6a4a": {
+    "type": "BOTH",
+    "global_cap": 67395,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6a4b": {
+    "type": "BOTH",
+    "global_cap": 21245,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a4c": {
+    "type": "BOTH",
+    "global_cap": 12524,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a4d": {
+    "type": "BOTH",
+    "global_cap": 92206,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a4e": {
+    "type": "BOTH",
+    "global_cap": 27707,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6a4f": {
+    "type": "BOTH",
+    "global_cap": 30076,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6a50": {
+    "type": "BOTH",
+    "global_cap": 24903,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a51": {
+    "type": "BOTH",
+    "global_cap": 25357,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6a52": {
+    "type": "BOTH",
+    "global_cap": 94774,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a53": {
+    "type": "BOTH",
+    "global_cap": 38603,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6a54": {
+    "type": "BOTH",
+    "global_cap": 76001,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6a55": {
+    "type": "BOTH",
+    "global_cap": 59489,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a56": {
+    "type": "BOTH",
+    "global_cap": 3441,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6a57": {
+    "type": "BOTH",
+    "global_cap": 81883,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6a58": {
+    "type": "BOTH",
+    "global_cap": 16326,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6a59": {
+    "type": "BOTH",
+    "global_cap": 77599,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a5a": {
+    "type": "BOTH",
+    "global_cap": 69371,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6a5b": {
+    "type": "BOTH",
+    "global_cap": 34811,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6a5c": {
+    "type": "BOTH",
+    "global_cap": 97148,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a5d": {
+    "type": "BOTH",
+    "global_cap": 34842,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a5e": {
+    "type": "BOTH",
+    "global_cap": 29306,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6a5f": {
+    "type": "BOTH",
+    "global_cap": 67153,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6a60": {
+    "type": "BOTH",
+    "global_cap": 4463,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6a61": {
+    "type": "BOTH",
+    "global_cap": 82547,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6a62": {
+    "type": "BOTH",
+    "global_cap": 11006,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6a63": {
+    "type": "BOTH",
+    "global_cap": 40487,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a64": {
+    "type": "BOTH",
+    "global_cap": 21218,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6a65": {
+    "type": "BOTH",
+    "global_cap": 50343,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6a66": {
+    "type": "BOTH",
+    "global_cap": 32001,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6a67": {
+    "type": "BOTH",
+    "global_cap": 70322,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6a68": {
+    "type": "BOTH",
+    "global_cap": 15247,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a69": {
+    "type": "BOTH",
+    "global_cap": 69270,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6a6a": {
+    "type": "BOTH",
+    "global_cap": 38070,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6a6b": {
+    "type": "BOTH",
+    "global_cap": 66349,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6a6c": {
+    "type": "BOTH",
+    "global_cap": 75379,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a6d": {
+    "type": "BOTH",
+    "global_cap": 35120,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a6e": {
+    "type": "BOTH",
+    "global_cap": 34449,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6a6f": {
+    "type": "BOTH",
+    "global_cap": 95962,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6a70": {
+    "type": "BOTH",
+    "global_cap": 92115,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6a71": {
+    "type": "BOTH",
+    "global_cap": 61762,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6a72": {
+    "type": "BOTH",
+    "global_cap": 97451,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6a73": {
+    "type": "BOTH",
+    "global_cap": 79680,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a74": {
+    "type": "BOTH",
+    "global_cap": 63762,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a75": {
+    "type": "BOTH",
+    "global_cap": 79652,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6a76": {
+    "type": "BOTH",
+    "global_cap": 37958,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6a77": {
+    "type": "BOTH",
+    "global_cap": 91875,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6a78": {
+    "type": "BOTH",
+    "global_cap": 10689,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a79": {
+    "type": "BOTH",
+    "global_cap": 24909,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6a7a": {
+    "type": "BOTH",
+    "global_cap": 601,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a7b": {
+    "type": "BOTH",
+    "global_cap": 27469,
+    "user_cap": 4
+  },
+  "6851398f442ff27192fe6a7c": {
+    "type": "BOTH",
+    "global_cap": 87612,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a7d": {
+    "type": "BOTH",
+    "global_cap": 44415,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a7e": {
+    "type": "BOTH",
+    "global_cap": 23557,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6a7f": {
+    "type": "BOTH",
+    "global_cap": 812,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6a80": {
+    "type": "BOTH",
+    "global_cap": 14494,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a81": {
+    "type": "BOTH",
+    "global_cap": 55421,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6a82": {
+    "type": "BOTH",
+    "global_cap": 82082,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6a83": {
+    "type": "BOTH",
+    "global_cap": 18416,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a84": {
+    "type": "BOTH",
+    "global_cap": 40488,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6a85": {
+    "type": "BOTH",
+    "global_cap": 21196,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a86": {
+    "type": "BOTH",
+    "global_cap": 41782,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a87": {
+    "type": "BOTH",
+    "global_cap": 22352,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6a88": {
+    "type": "BOTH",
+    "global_cap": 58042,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a89": {
+    "type": "BOTH",
+    "global_cap": 84982,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6a8a": {
+    "type": "BOTH",
+    "global_cap": 30921,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6a8b": {
+    "type": "BOTH",
+    "global_cap": 78162,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a8c": {
+    "type": "BOTH",
+    "global_cap": 35758,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6a8d": {
+    "type": "BOTH",
+    "global_cap": 96485,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6a8e": {
+    "type": "BOTH",
+    "global_cap": 66902,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6a8f": {
+    "type": "BOTH",
+    "global_cap": 43440,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a90": {
+    "type": "BOTH",
+    "global_cap": 34925,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6a91": {
+    "type": "BOTH",
+    "global_cap": 32192,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a92": {
+    "type": "BOTH",
+    "global_cap": 31293,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6a93": {
+    "type": "BOTH",
+    "global_cap": 93528,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6a94": {
+    "type": "BOTH",
+    "global_cap": 21881,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6a95": {
+    "type": "BOTH",
+    "global_cap": 90392,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a96": {
+    "type": "BOTH",
+    "global_cap": 54914,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6a97": {
+    "type": "BOTH",
+    "global_cap": 69064,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6a98": {
+    "type": "BOTH",
+    "global_cap": 45651,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6a99": {
+    "type": "BOTH",
+    "global_cap": 42510,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6a9a": {
+    "type": "BOTH",
+    "global_cap": 25469,
+    "user_cap": 10
+  },
+  "6851398f442ff27192fe6a9b": {
+    "type": "BOTH",
+    "global_cap": 90357,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a9c": {
+    "type": "BOTH",
+    "global_cap": 51637,
+    "user_cap": 5
+  },
+  "6851398f442ff27192fe6a9d": {
+    "type": "BOTH",
+    "global_cap": 56254,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6a9e": {
+    "type": "BOTH",
+    "global_cap": 9523,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6a9f": {
+    "type": "BOTH",
+    "global_cap": 73945,
+    "user_cap": 7
+  },
+  "6851398f442ff27192fe6aa0": {
+    "type": "BOTH",
+    "global_cap": 80018,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6aa1": {
+    "type": "BOTH",
+    "global_cap": 29377,
+    "user_cap": 8
+  },
+  "6851398f442ff27192fe6aa2": {
+    "type": "BOTH",
+    "global_cap": 2474,
+    "user_cap": 6
+  },
+  "6851398f442ff27192fe6aa3": {
+    "type": "BOTH",
+    "global_cap": 66210,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6aa4": {
+    "type": "BOTH",
+    "global_cap": 33178,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6aa5": {
+    "type": "BOTH",
+    "global_cap": 53039,
+    "user_cap": 2
+  },
+  "6851398f442ff27192fe6aa6": {
+    "type": "BOTH",
+    "global_cap": 39238,
+    "user_cap": 3
+  },
+  "6851398f442ff27192fe6aa7": {
+    "type": "BOTH",
+    "global_cap": 21374,
+    "user_cap": 1
+  },
+  "6851398f442ff27192fe6aa8": {
+    "type": "BOTH",
+    "global_cap": 65372,
+    "user_cap": 9
+  },
+  "6851398f442ff27192fe6aa9": {
+    "type": "BOTH",
+    "global_cap": 86172,
+    "user_cap": 8
   }
 }
