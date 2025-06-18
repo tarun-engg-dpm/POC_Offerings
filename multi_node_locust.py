@@ -12,14 +12,14 @@ from locust import User, task, between, events
 # --- Configuration ---
 REDIS_HOST = os.environ.get("REDIS_HOST", "dpm-offerings-clustered.e6nc9i.clustercfg.aps1.cache.amazonaws.com")
 REDIS_PORT = int(os.environ.get("REDIS_PORT", 6379))
-OFFERS_JSON_FILE = os.environ.get("OFFERS_JSON_FILE", "resources/offer_db.json")
+OFFERS_JSON_FILE = os.environ.get("OFFERS_JSON_FILE", "resources/both_only.json")
 
 # --- Global Data (Loaded once at test start) ---
 OFFER_CONFIGS = {}
 ALL_OFFER_IDS = []
 
 # --- "INCR-FIRST" LUA SCRIPTS (minified for performance) ---
-# This multi-key script is now possible because hash tags co-locate the keys.
+# This multi-key script is now possible because hash-tags co-locate the keys.
 ATOMIC_INCR_THEN_CHECK_BOTH_LUA = """
 local g=KEYS[1];local u=KEYS[2];local gc=tonumber(ARGV[1]);local uc=tonumber(ARGV[2]);local ex=tonumber(ARGV[3]);local nu=redis.call('INCR',u);if nu<=uc then local ng=redis.call('INCR',g);if ng<=gc then if nu==1 then redis.call('EXPIREAT',u,ex)end;if ng==1 then redis.call('EXPIREAT',g,ex)end;return"SUCCESS"else redis.call('DECR',g);redis.call('DECR',u);return"FAIL_GLOBAL_CAP_MET"end else redis.call('DECR',u);return"FAIL_USER_CAP_MET"end
 """
